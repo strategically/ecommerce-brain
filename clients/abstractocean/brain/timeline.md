@@ -1,0 +1,24 @@
+# Abstract Ocean: timeline
+
+_One line per month, newest first. 97 call notes from 2025-04-17 to 2026-11-09. No weekly performance numbers. Every month in the range has at least one note; the longest gaps are 2026-08-18 to 2026-09-02 and 2026-10-20 to 2026-11-01._
+
+- 2026-11: Black Friday plan (VIP then public launch 16 Nov to 1 Dec); branded queries to come out of Google; segmented campaigns rolling out; account-connection risk flagged, no changes until Google advises; frequently-bought-together unfinished (calls 2026-11-02, 2026-11-09).
+- 2026-10: Armour customer analysis started; Cybertruck builder funnel; shopping split into collected products (tROAS 500) and own products (300); PPF scaling approval; AOV falling with more zero-value and single-item orders; contactable email base found to be far smaller than Shopify customers (calls 2026-10-05, 2026-10-12, 2026-10-19).
+- 2026-09: Collections rebuild (143 imported), JSON-LD cleanup; new high-ROAS campaigns; PMax consolidated; Meta moved to retargeting; Merchant Center mass disapproval on 9 to 10 Sept; influencer video spike; low-margin items excluded from feeds (calls 2026-09-03, 2026-09-07, 2026-09-14, 2026-09-21, 2026-09-28).
+- 2026-08: Duplicate collections condensed; Junip reviews live; Model Y bundle live; in-house inventory system and help content back on-site; Google cleanup; Wayflyer funding delay holds restocking (calls 2026-08-03, 2026-08-10, 2026-08-17).
+- 2026-07: Robots.txt then Cloudflare DNS fix for Merchant Center disapprovals; segmented campaigns turned off; reviews leave Redo; bot protection removed, sessions inflated; draft theme (calls 2026-07-06, 2026-07-13, 2026-07-20, 2026-07-27, 2026-07-31).
+- 2026-06: Merchant Center 503 and disapproval investigation; Flexport exit approved; PPF via partners and New Owner app; July 4 sale; US-only ad spend (calls 2026-06-01, 2026-06-08, 2026-06-15, 2026-06-22, 2026-06-29).
+- 2026-05: Bing shut down; Expel supply risk and stock purchase on a raised card limit; Memorial Day sale; AI visibility audit; Horizon theme and headless idea (calls 2026-05-06, 2026-05-11, 2026-05-18, 2026-05-25, 2026-05-27).
+- 2026-04: Merchant Center "page unavailable" errors; AI workflows built; Bing test live; cash short for reorders; PayPal and Shopify loans paid off (calls 2026-04-06, 2026-04-13, 2026-04-23, 2026-04-27).
+- 2026-03: Segmented campaigns, stape.io server-side tracking, PPF landing page; session target raised to 16,500; Bing test planned (calls 2026-03-02, 2026-03-09, 2026-03-16, 2026-03-23, 2026-03-30).
+- 2026-02: Enrichment complete for all products and schema installed; PMax by product bucket; Reddit killed; PPF white-label with peer seller confirmed; 400 low-click products uploaded (calls 2026-02-02, 2026-02-06, 2026-02-09, 2026-02-16, 2026-02-23).
+- 2026-01: Weekly Monday review set up; account restructured; homepage redesign; fake-account and bot issues; Cybertruck campaigns consolidated (calls 2026-01-07, 2026-01-12, 2026-01-22, 2026-01-26).
+- 2025-12: Merchant Center upload plan (100-product batch); focus on Juniper PPF kits; mobile-first theme and hero-product focus; Flexport exit plan (calls 2025-12-05, 2025-12-08, 2025-12-15, 2025-12-17, 2025-12-19).
+- 2025-11: Organic clicks and impressions fall from about 8 October; attribute schema standardised; Matrixify extraction; failed call on 2025-11-28 (calls 2025-11-07, 2025-11-12, 2025-11-17, 2025-11-19, 2025-11-28).
+- 2025-10: Tracking break from upsell app and tROAS cuts; VIP Black Friday email; attribute work begins ("Get Attributes"); Halloween mini-sale (calls 2025-10-01, 2025-10-03, 2025-10-09, 2025-10-13, 2025-10-17, 2025-10-22, 2025-10-24).
+- 2025-09: Move from Target Bay to Redo; campaigns rebuilt smaller; AI pricing tests; vehicle-first pop-up (calls 2025-09-04, 2025-09-12, 2025-09-15).
+- 2025-08: Cash and debt repayment planning; AdRoll tested; email platform choice; pop-up change (calls 2025-08-04, 2025-08-08, 2025-08-11, 2025-08-15, 2025-08-20, 2025-08-28).
+- 2025-07: Cash-driven revenue targets; firewall issue hit organic snippets; hero product and catalogue-expansion search; lighting priority; click-fraud tool (calls 2025-07-04, 2025-07-11, 2025-07-14, 2025-07-16, 2025-07-21, 2025-07-23, 2025-07-28, 2025-07-30).
+- 2025-06: Record day of 40 orders; Google spend raised to $1,500/day; bundles and installation content; Klaviyo to Target Bay migration issues (calls 2025-06-04, 2025-06-06, 2025-06-13, 2025-06-18, 2025-06-26).
+- 2025-05: Conversion drop from 5.64% to 2.13%; Memorial Day sale; Facebook-to-Google test proposed; free-sample and discount offers (calls 2025-05-07, 2025-05-12, 2025-05-14, 2025-05-16, 2025-05-21, 2025-05-29).
+- 2025-04: Cost review (apps, shipping, podcast); free-shipping threshold; armour page and kit naming; Merchant Center access for Sam (calls 2025-04-17, 2025-04-25, 2025-04-28, 2025-04-30).
