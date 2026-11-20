@@ -34,7 +34,7 @@ rightchannelradios:
   name: Right Channel Radios
   type: retainer
   domains: [rightchannelradios.com]
-  titles: []
+  titles: [pat / sam]
 shokay:
   name: Shokay
   type: retainer
