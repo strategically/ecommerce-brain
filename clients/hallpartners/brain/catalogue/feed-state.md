@@ -1,1 +1,0 @@
-# Hall & Partners: feed state

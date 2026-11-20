@@ -20,11 +20,6 @@ everythingtruckparts:
   type: retainer
   domains: [everythingtruckparts.com]
   titles: []
-hallpartners:
-  name: Hall & Partners
-  type: content
-  domains: []
-  titles: []
 lemonlabels:
   name: Lemon Labels
   type: retainer
