@@ -1,1 +1,36 @@
 # Everything Truck Parts: change log
+
+_Account, feed and strategy changes in date order. Each entry is what was agreed or reported on the call; "supersedes" notes where a later call replaced an earlier one. No weekly performance numbers._
+
+| Date | Change | Supersedes / note | Source |
+|---|---|---|---|
+| 2025-04-29 | Mention in Fleet Guard ads that customers get 10% off for 12 or more of the same filter (action for John). | Offer under discussion; John doubts margins allow it. | (call 2025-04-29) |
+| 2025-05-23 | Raise target ROAS on the filter side to cut low-quality traffic, accepting Google may reduce traffic overall. | | (call 2025-05-23) |
+| 2025-06-17 | Added conversion goals (including add-to-cart) said to have raised traffic and conversions. Ad spend cut to $500 per week (about $70/day) until site improvements are made; no further scaling until a seven-day review. Spill 911 spend was cut in the same call (see its own folder). | Add-to-cart goal reversed 2025-06-27. | (call 2025-06-17) |
+| 2025-06-27 | Moved back to purchase-only conversions (extra signals lowered traffic quality). Consolidated to two filter-based campaigns (Baldwin, Fleetguard, Donaldson) and trial $80/day on the main campaign for July. | Replaces the $500/week cap and the add-to-cart goal from 2025-06-17. | (call 2025-06-27) |
+| 2025-07-14 | Move budget from underperforming to higher-performing campaigns; test new categories with controlled daily budgets. | | (call 2025-07-14) |
+| 2025-09-05 | Cautiously test a small daily Bing budget. Sam prefers small incremental budget steps. | The $80/day trial is not mentioned on this call. | (call 2025-09-05) |
+| 2025-10-07 | Shopping budget reduced; Performance Max prioritised with a slight budget increase; five to seven filter product videos added; target ROAS lowered by 0.25% to push PMax back into learning. | | (call 2025-10-07) |
+| 2025-10-28 | Campaigns and landing pages by engine and vehicle (for example 5.7 Hemi oil filter, 6.7 Cummins cold air intake). Spend steps about 10% every four days toward about $49-50/day over two to three weeks. Bing duplication deferred. | Replaces the generic filter campaign approach: broad filter terms scale poorly. | (call 2025-10-28) |
+| 2025-11-25 | Merchant Center title variants for Donaldson (two per product); K&N reported strong because its titles are vehicle-specific. | | (call 2025-11-25) |
+| 2026-01-19 | Propose budget reallocation to scale filter and cold air intake campaigns. | Replaced 2026-01-20. | (call 2026-01-19) |
+| 2026-01-20 | Separate single-asset PMax campaigns; start with K&N-only cold air intake; two-week test cycles; filter the feed by brand availability; Rhino, Thule/Tuli and Spider are immediate feed removal candidates. | Replaces the 2026-01-19 reallocation plan. | (call 2026-01-20) |
+| 2026-02-03 | Fleet Guard bucket +$5 (target $30); shift about $20-$25/day from underperformers; reduce or pause cold air intake; Donaldson and Baldwin unchanged one week. | Replaces the 2026-01-20 cold air intake push. | (call 2026-02-03) |
+| 2026-02-09 | Pause Baldwin air filters, Fleet Guard "all" campaign (500 set) and fuel water separator ad group; cold air intake to $25/day with K&N bank asset removed; reallocate to fuel filter and oil and lube. | Replaces the 2026-02-03 "Baldwin unchanged". | (call 2026-02-09) |
+| 2026-02-17 | Paid search limited to Fleet Guard, Donaldson, Baldwin, Wix; Wix campaign added; filter target ROAS raised gradually; K&N kept with a small ROAS change; Fox paused. Cold air intake ROAS and budget values unclear. | Replaces the 2026-02-09 structure. | (call 2026-02-17) |
+| 2026-03-03 | Proposed (not confirmed): remove non-filter products from Merchant Center keeping Baldwin, Donaldson, Wicks [sic], Fleet Guard and K&N; Donaldson as first controlled Merchant Center test; test lower target ROAS or maximise clicks. | The call notes say 2026-03-26 later set 600 target ROAS. | (call 2026-03-03) |
+| 2026-03-17 | Server-side tracking (Stape.io with GTM) decided. Bestsellers tagging in Merchant Center (custom_label_1 = bestseller). K&N not fully stopped. | | (call 2026-03-17) |
+| 2026-03-26 | One all-filters campaign (Donaldson, Wix, Fleet Guard, Baldwin) at 600 target ROAS; Best Sellers campaign ring-fenced at lower ROAS; K&N / Mishimoto / Banks finding campaign at 600 target ROAS; three active campaigns. | Replaces the four-filter-brand structure of 2026-02-17. | (call 2026-03-26) |
+| 2026-04-14 | New-brands shopping campaign performing well; John to supply 3-5 more brands; PMax plan for Ford F150 after the landing page is hosted. | | (call 2026-04-14) |
+| 2026-04-28 | Pause Bed Rug; turn off Banks Power; keep WeatherTech, Mishimoto, Husky Liners; brand plus part-number keywords replace generic part-number keywords; K&N under review. | Narrows the 2026-04-14 new-brands set. | (call 2026-04-28) |
+| 2026-05-12 | Keep All-products campaign; restructure new-brand testing by product type; remove products under $100 via a label (filters and consumables excepted); small budget increases for high-ROAS campaigns. | | (call 2026-05-12) |
+| 2026-05-26 | Proposed (not confirmed): $200 threshold for non-filter products; remove Best Sellers campaign; fix Husky Liners and AMP mapping. | Would replace the $100 rule and the three-campaign plan of 2026-03-26. | (call 2026-05-26) |
+| 2026-06-09 | Suspension trimmed to Superlift and Tough Country; Baldwin, Wix, Fleet Guard search at $10/day each; Husky from $55/day toward $100/day; pause Skyjacker and BKK Performance, reallocate about $270 to HPS Performance; Donaldson untouched. | | (call 2026-06-09) |
+| 2026-06-23 | Lift-kit branded campaign paused and to be rebuilt; budget concentrated on Bing Husky Liner; Superlift, JKS Manufacturing, EBAC reported paused on 2026-06-09. | Superlift status conflicts with 2026-06-09; see open-questions. | (call 2026-06-23) |
+| 2026-07-10 | Remove ARB, ICON and PRP from marketing feeds and verify organic listings removed. | Replaced by the 2026-07-21 list. | (call 2026-07-10) |
+| 2026-07-21 | Remove from promotion ARB, AFE, PRP, Baja Designs, Husky Liners, Yukon (some already removed). ICON not listed. | Replaces the 2026-07-10 list. | (call 2026-07-21) |
+| 2026-08-04 | Rebuild filter campaigns as vehicle-specific landing pages with single-keyword ad groups; BF Goodrich removed from feed; Rejoiner flows approved; increase spend on HPS and HBS recommended. | | (call 2026-08-04) |
+| 2026-08-18 | Filter campaigns consolidated into one with ad groups per vehicle or part; fitment-driven search URLs route uncertain matches to a filtered search page. | | (call 2026-08-18) |
+| 2026-09-29 | All-products campaign at high target ROAS plus brand filter campaigns, with vehicle-specific search and shopping to follow; propose a budget increase for approval. | | (call 2026-09-29) |
+| 2026-10-13 | Year Make Model campaign prioritised alongside the high-ROAS campaign and PMax support; the increased ROAS target was blamed for a performance dip. | | (call 2026-10-13) |
+| 2026-11-10 | Silverado lead launch vehicle; ads start within one week for completed model years; restructure to remove non-converting catalogue spend; marketing target 500 to 550 (units not stated). | Replaces the Ram 1500 lead of 2026-10-27. | (call 2026-11-10) |
