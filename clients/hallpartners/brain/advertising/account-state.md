@@ -1,0 +1,1 @@
+# Hall & Partners: advertising state

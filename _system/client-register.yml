@@ -1,0 +1,64 @@
+# Matches Fyxer calls to clients: attendee email domain first, then title keywords.
+# domains/titles are TBC unless filled. Calls matching nothing go to escalations, never guessed.
+abstractocean:
+  name: Abstract Ocean
+  type: retainer
+  domains: [abstractocean.com]
+  titles: [pete / sam]
+balloonery:
+  name: Balloonery
+  type: retainer
+  domains: []
+  titles: [balloonery]
+eag:
+  name: Elite Athletic Gear
+  type: advisory
+  domains: []
+  titles: []
+everythingtruckparts:
+  name: Everything Truck Parts
+  type: retainer
+  domains: []
+  titles: []
+hallpartners:
+  name: Hall & Partners
+  type: content
+  domains: []
+  titles: []
+lemonlabels:
+  name: Lemon Labels
+  type: retainer
+  domains: []
+  titles: [lemon labels]
+lifepo4oz:
+  name: LiFePO4 OZ
+  type: retainer
+  domains: [lifepo4oz.com]
+  titles: [lifepo4, ernest brindley]
+rightchannelradios:
+  name: Right Channel Radios
+  type: retainer
+  domains: []
+  titles: []
+shokay:
+  name: Shokay
+  type: retainer
+  domains: []
+  titles: []
+xchange360:
+  name: Xchange360
+  type: retainer
+  domains: []
+  titles: []
+spill911:
+  name: Spill911
+  type: retainer
+  domains: []
+  titles: []
+vip360:
+  name: VIP 360
+  type: retainer
+  domains: []
+  titles: []
+ignore:
+  titles: [indy]   # Strand IQ collaboration, not a client

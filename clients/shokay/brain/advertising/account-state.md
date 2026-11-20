@@ -1,0 +1,1 @@
+# Shokay: advertising state
