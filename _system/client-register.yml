@@ -19,7 +19,7 @@ everythingtruckparts:
   name: Everything Truck Parts
   type: retainer
   domains: [everythingtruckparts.com]
-  titles: []
+  titles: [john / sam]
 lemonlabels:
   name: Lemon Labels
   type: retainer
@@ -49,7 +49,7 @@ spill911:
   name: Spill911
   type: retainer
   domains: [spill911.com]
-  titles: []
+  titles: [bi-weekly / spill 911, spill 911]
 vip360:
   name: VIP 360
   type: retainer
