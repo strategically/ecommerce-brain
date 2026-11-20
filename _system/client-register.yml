@@ -8,7 +8,7 @@ abstractocean:
 balloonery:
   name: Balloonery
   type: retainer
-  domains: []
+  domains: [balloonery.com]
   titles: [balloonery]
 eag:
   name: Elite Athletic Gear
