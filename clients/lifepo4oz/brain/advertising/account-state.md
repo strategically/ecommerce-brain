@@ -31,8 +31,6 @@ _As of the latest call (2026-11-11). Qualitative only; numbers are in the databa
 - Lead scoring model feeds Woopra user properties and a daily call list (call 2026-10-29).
 
 ## Added from call 2026-11-20
-- Week Nov 12-18: 3,402 sessions, $38,000 revenue, $11.30 revenue/session, $2,562 AOV (call 2026-11-20)
-- 178 leads at $15.72 average cost per lead that week (call 2026-11-20)
 - Lead form now captures purchase timeframe and on-grid/off-grid (call 2026-11-20)
 - Only 2% of draft orders carry Google click IDs; 10 of 68 recent draft buyers matched to prior identified clicks (call 2026-11-20)
 - Woopra 90-day first-touch: direct 54%, Google CPC 26%, organic 19%, Meta 1%; 120-day vs 30-day window added only about $3,000 (call 2026-11-20)
