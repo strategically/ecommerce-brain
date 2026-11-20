@@ -39,3 +39,10 @@ _Latest value first, with how it changed. Currency not stated unless marked AUD.
 - CEC example: 5 kW inverter and 20.48 kWh battery cost $7,499, install about $2,574, profit a little over $3,000 (call 2025-10-02).
 - Installer cost per deal: $2,000-3,000 (call 2025-11-20); quotes now about $5,500, up from about $2,000 (call 2026-03-26).
 - Returns: 20% restocking fee; Sam says wording could cost sales (call 2025-08-01). Battery rebate covers about 30% (Ernest, call 2025-08-01).
+
+## Added from call 2026-11-20
+- Average profit on battery kits about 40% including cost of goods and shipping (client estimate, call 2026-11-20)
+- Single solar panel shipping can be about $300; two-panel minimum order introduced; bus bar pair shipping $18 (call 2026-11-20)
+- October freight-out 12,768, currency not stated (call 2026-11-20)
+- BMS for 4-to-8 configuration costs $289 (call 2026-11-20)
+- Freight recording: ShipIt automatic; Team Global Express offline pallets; Australia Post accessory freight to be recorded in Shopify (call 2026-11-20)

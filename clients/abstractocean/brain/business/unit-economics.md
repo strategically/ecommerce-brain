@@ -51,3 +51,5 @@ _Margins, fees, break-even. Source and date on every line. Currency not stated o
 - Operating expenses about $257,000 and income about $352,000, net profit about $21,000 (currency and period not stated); Sam thought costs were under-allocated so true profit is lower (call 2025-04-17).
 - Interest cost of debt about 3% of turnover (call 2025-08-11).
 - Ten predefined bundles estimated at about $140k a year on a 90-day projection (call 2025-12-15; later de-prioritised, see decisions).
+_Margins, fees, break-even. Source and date on every line._
+- Black Friday discounting cannibalises margin, so launch is delayed as long as possible (call 2026-11-16)

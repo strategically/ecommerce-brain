@@ -81,3 +81,6 @@ _Chronological. Later rows that supersede earlier ones say so. "Decision" is wha
 | 2026-10-19 | Shopping split: collected products tROAS 500, own products 300; PPF to $300/day if ROAS at 2.5 or above | Prevent internal cannibalisation | call 2026-10-19 | |
 | 2026-11-02 | Remove branded queries from Google; segmented campaigns over two to three weeks; Black Friday VIP then public launch 16 to 17 Nov through 1 Dec | Lower CPC; new customers | call 2026-11-02 | |
 | 2026-11-09 | No change to Google and Shopify account connections until Google advises; VIP Thursday or Friday and public launch 16 Nov; frequently-bought-together unselected by default | Risk of feed disruption | call 2026-11-09 | |
+| 2026-11-16 | Hold PPF budget for seven days | Two increases made within a week | call 2026-11-16 | |
+| 2026-11-16 | Launch VIP Black Friday on downturn or competitor promos; public sale tentatively Nov 21-22 | Margins favour delay | call 2026-11-16 | |
+| 2026-11-19 | Cybertruck budget toward about $100 | Strong campaign, about $3 extra per conversion | call 2026-11-19 | |

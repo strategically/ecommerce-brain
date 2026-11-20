@@ -6,11 +6,43 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
-_None yet._
+## T-001 · A/B test Complete Your Setup placement under buy buttons
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-16
+Why: 72% of mobile visitors never see the add-ons widget.
+Context: [[brain/site/page-inventory]]
+Done when: Test live in Round 42 with result read-out
+
+## T-002 · Increase Cybertruck campaign budget toward about $100
+Owner: Sam · Status: proposed · Agreed: call 2026-11-19
+Why: Campaign running strongly; increase expected to add about 1.77 conversions.
+Context: [[brain/advertising/account-state]]
+Done when: Budget stepped up and logged
+
+## T-003 · Activate ads and issue release notes after rebrand
+Owner: Sam · Status: proposed · Agreed: call 2026-11-19
+Why: Site rebrand goes live Sat 12:00 Central.
+Context: [[brain/advertising/account-state]]
+Done when: Ads on after rebrand; release notes sent
+
+## T-004 · Confirm Meta and Google readiness for Black Friday
+Owner: Sam · Status: proposed · Agreed: call 2026-11-16
+Why: Meta ready; Google prep to finish the day of the call.
+Context: [[brain/advertising/account-state]]
+Done when: Campaigns ready to switch on at promotion launch
 
 ## Waiting on client
 
-_None yet._
+## T-005 · Update site and send remaining campaign email Saturday
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-19
+Why: Rebrand live Sat 12:00 Central.
+Context: [[brain/site/page-inventory]]
+Done when: Email sent and site updated
+
+## T-006 · Vehicle-specific product filtering (Round 43)
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-16
+Why: Staged for after Round 42.
+Context: [[brain/site/page-inventory]]
+Done when: Live after Round 42
 
 ## Done (last 30 days)
 

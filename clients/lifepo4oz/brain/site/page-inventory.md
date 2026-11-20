@@ -22,3 +22,7 @@ _Facts from calls only. Page-level traffic numbers live in the database._
 - Static code injected into product template removed (call 2025-12-11). Filter and search-query URLs to be blocked via robots.txt; about 1,870 indexed pages (call 2025-12-11). Robots.txt error May 2026 blocked variants (call 2026-05-21).
 - Blog on JK BMS wiring corrected after wrong information; taken down 17 Aug 2026 (call 2026-08-26). SEO contractor writes blogs from LLM queries (call 2026-04-30); SEO judged to have delivered no meaningful gains in two years, deprioritised (call 2026-10-09).
 - Add-to-cart button text bug reported (call 2025-10-09). Draft-order "complete purchase" button has wrong bank-transfer wording for about four years (call 2025-11-13).
+
+## Added from call 2026-11-20
+- Calculator-led traffic tested in prior 12 months reduced conversions; keep personal service central (call 2026-11-20)
+- Planned: click-to-call email capture with Woopra identify; tracked shipping-status page for draft-order customers (call 2026-11-20)

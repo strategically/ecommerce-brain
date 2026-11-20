@@ -62,3 +62,7 @@ _Facts only, each with source and date. Calls cover 2025-04-17 to 2026-11-09 (97
 - Remaining obligations as stated 2026-05-11: Wayflyer financing about $145k with a flat daily repayment of about $627; Chase line of credit about $100k with interest of about $1,700 a month (call 2026-05-11). Credit card balances remain (call 2026-04-27); a card limit was raised to $25,000 for a stock purchase (call 2026-05-27).
 - Interest cost of debt was about 3% of turnover (call 2025-08-11). Repayment order agreed 2025-08-11 (Shopify Capital, Amex revolving balance, Chase line, ELOC, remaining facility) (call 2025-08-11).
 - A sales tax audit was ongoing in 2025-06 (call 2025-06-18).
+_Facts only, each with source and date._
+- Armor roll bought for about $700 and sold for about $1,900 (call 2026-11-19)
+- Dormant customers seen as a bigger opportunity than VIPs (call 2026-11-19)
+- Competitors: Tapps announced 20% off; TestBros had no promotion yet (call 2026-11-16)

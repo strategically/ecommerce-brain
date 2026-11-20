@@ -49,3 +49,6 @@
 | 2026-10-16 | Reintroduce PMax at half budget | PMax CPC low but conversions low quality (budget halved) | call 2026-10-16 | |
 | 2026-10-29 | Call Now threshold 145; inbound fade 21 days | Keep list near 23 leads a day | call 2026-10-29 | |
 | 2026-11-11 | Lead forms capture grid status, timeframe, system type, finance need; on-grid leads disqualified and excluded; buyer audiences split at $1,000 | Improve lead quality | call 2026-11-11 | |
+| 2026-11-20 | Keep personal service/direct conversations as primary sales focus, not calculator | Calculator-led traffic reduced conversions | call 2026-11-20 | |
+| 2026-11-20 | Increase traffic rather than wait for attribution fix; prioritise larger deals | Attribution gaps unlikely to resolve soon | call 2026-11-20 | |
+| 2026-11-20 | Email capture before phone number display, with Woopra identify | 63 anonymous calls lost attribution | call 2026-11-20 | |

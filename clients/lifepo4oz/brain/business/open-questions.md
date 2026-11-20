@@ -46,3 +46,9 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Outcome of the unauthorised Meta charges of about $4,600-5,000: refund status, Amex step, new ad account (call 2026-09-04).
 - Which CRM long-term: Zoho kept, HubSpot/Attio suggested (call 2026-09-04). Whether the Meta pixel is linked to the second account (call 2026-10-14).
 - Retainer scope: consultancy vs managing ads (call 2025-08-08); CFO-type role owner (call 2025-12-11).
+
+## Added from call 2026-11-20
+- Increase ad budget now or fix attribution first; no budget figure set (call 2026-11-20)
+- Meta spend split between warm and cold/broad audiences (call 2026-11-20)
+- Monthly operating expenses: client to restate once categories clarified (call 2026-11-20)
+- Woopra cookie expiry per browser unconfirmed (call 2026-11-20)

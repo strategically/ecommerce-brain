@@ -52,3 +52,5 @@ _Newest first. Currency not stated on most calls (the 2025-10-22 call used pound
 | 2025-06-18 | Google Ads daily spend to rise from about $1,000 to $1,200 to $1,500; underperforming Meta ads paused | call 2025-06-18 |
 | 2025-06-04 | Plan to double budget over 10 days if ROAS stable | call 2025-06-04 |
 | 2025-05-14 | YouTube budget cut to $30/day; PMax consolidation to a single campaign planned; Facebook $6,000 to $2,000 with $4,000 to Google proposed as a two-week test | call 2025-05-14 |
+- 2026-11-15: PPF budget increase (second in a week); 3Y Broad raised $40/day to $280 (call 2026-11-16)
+- Ads to be activated Sat 2026-11-21 after site rebrand (call 2026-11-19)

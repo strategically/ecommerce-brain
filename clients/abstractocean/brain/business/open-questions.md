@@ -74,3 +74,4 @@ _To confirm with the client. Conflicting, garbled or unlabelled figures are list
 ## Business debt and finance
 - Debt figures are high level only: Wayflyer about $145k with a flat daily repayment of about $627 and Chase line about $100k (call 2026-05-11); Amex about 80,000 with no currency (call 2026-04-27); card limit raised to $25,000 (call 2026-05-27). No later update on any balance. Whether the 2025-08-04 plan to set aside 10 to 15% of sales for debt repayment was implemented is not recorded.
 - Wayflyer funding drawdown delayed on 2026-08-10; arrival date not recorded (call 2026-08-10).
+- How much AOV lift comes from PDP tools versus Google (call 2026-11-16)

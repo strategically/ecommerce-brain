@@ -29,3 +29,12 @@ _As of the latest call (2026-11-11). Qualitative only; numbers are in the databa
 - Woopra journey and first-touch attribution since 20 Jan 2026; Shopify connection rebuilt Mar 2026 with draft-order support; phone identity merging fixed in May 2026 (calls 2026-08-26, 2026-03-26, 2026-05-21). Window max 90 days (call 2026-10-15).
 - Known gaps: draft orders and phone sales lose attribution (about half of conversions have unknown source, call 2026-08-20); live chat events unreliable (call 2026-10-06); extension number 1013 overwriting phone property (call 2026-09-24); internal IPs being excluded (call 2026-09-17).
 - Lead scoring model feeds Woopra user properties and a daily call list (call 2026-10-29).
+
+## Added from call 2026-11-20
+- Week Nov 12-18: 3,402 sessions, $38,000 revenue, $11.30 revenue/session, $2,562 AOV (call 2026-11-20)
+- 178 leads at $15.72 average cost per lead that week (call 2026-11-20)
+- Lead form now captures purchase timeframe and on-grid/off-grid (call 2026-11-20)
+- Only 2% of draft orders carry Google click IDs; 10 of 68 recent draft buyers matched to prior identified clicks (call 2026-11-20)
+- Woopra 90-day first-touch: direct 54%, Google CPC 26%, organic 19%, Meta 1%; 120-day vs 30-day window added only about $3,000 (call 2026-11-20)
+- Google Ads offline uploads include 28 paid drafts; campaign 1581 shows 1.54x ROAS, possibly understated (call 2026-11-20)
+- Google optimises on flat lead values, understating sales performance (call 2026-11-20)

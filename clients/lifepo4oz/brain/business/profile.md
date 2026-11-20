@@ -45,3 +45,9 @@ _Facts only, each with source and date. Currency not stated unless marked AUD._
 - Google Ads, Google Merchant Center, GA4, GTM; server-side tracking from about 2026-04-16 (call 2026-04-16). Meta Ads: two ad accounts (call 2026-10-01).
 - Woopra journey analytics, signed before Christmas 2025 (call 2026-01-22); Zoho CRM (current; Techmatics and GoHighLevel tried and dropped, call 2026-09-04); n8n workflows; Twilio SMS/calls; VoIPeline call recordings; Klaviyo; Google Workspace; Xero; Cloudflare; Hum; Zoho Analytics (calls 2026-05-14, 2026-02-25, 2025-11-13).
 - Access audit across Shopify, Google, Meta, GA4, GTM, Cloudflare, CRM, Klaviyo underway after the Oct 2026 contractor and account-security issues (call 2026-10-14).
+
+## Added from call 2026-11-20
+- Differentiator: custom products and custom-designed solutions rather than off-the-shelf systems (call 2026-11-20)
+- Typical customers include people replacing lead-acid batteries; personal service and direct conversations drive buying (call 2026-11-20)
+- Large draft orders preferred paid by bank transfer to save payment fees (call 2026-11-20)
+- Draft orders are 63% of revenue (call 2026-11-20)
