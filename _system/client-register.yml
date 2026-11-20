@@ -13,12 +13,12 @@ balloonery:
 eag:
   name: Elite Athletic Gear
   type: advisory
-  domains: []
+  domains: [eliteathleticgear.com]
   titles: []
 everythingtruckparts:
   name: Everything Truck Parts
   type: retainer
-  domains: []
+  domains: [everythingtruckparts.com]
   titles: []
 hallpartners:
   name: Hall & Partners
@@ -28,7 +28,7 @@ hallpartners:
 lemonlabels:
   name: Lemon Labels
   type: retainer
-  domains: []
+  domains: [lemonlabels.co.uk]
   titles: [lemon labels]
 lifepo4oz:
   name: LiFePO4 OZ
@@ -38,27 +38,27 @@ lifepo4oz:
 rightchannelradios:
   name: Right Channel Radios
   type: retainer
-  domains: []
+  domains: [rightchannelradios.com]
   titles: []
 shokay:
   name: Shokay
   type: retainer
-  domains: []
+  domains: [shokay.asia]
   titles: []
 xchange360:
   name: Xchange360
   type: retainer
-  domains: []
+  domains: [xchange-360.com, blkgroup.com]
   titles: []
 spill911:
   name: Spill911
   type: retainer
-  domains: []
+  domains: [spill911.com]
   titles: []
 vip360:
   name: VIP 360
   type: retainer
-  domains: []
+  domains: [vip-360.com]
   titles: []
 ignore:
   titles: [indy]   # Strand IQ collaboration, not a client
