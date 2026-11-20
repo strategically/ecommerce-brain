@@ -16,3 +16,7 @@ status: off-by-default
 - Source and date on every fact.
 - Anything needing Sam goes to `clients/<id>/escalations.md`.
 - Log AI usage to `brain.usage_events`.
+- Never write period performance snapshots (weekly/monthly sessions, revenue, spend, AOV, leads, cost per lead, ROAS) into `brain/`. They belong in the database. Keep them in the call note only. Stable figures (margins, freight costs, targets, thresholds, budget settings) are fine in the brain.
+- Garbled, conflicting or currency-less numbers go to `brain/business/open-questions.md`, never as facts.
+- Match by attendee domain first; titles like "John / Sam" are shared between clients, so check content before assigning.
+- Replace attendee emails with name + org in call notes. Exclude personal, family and health remarks, customer names and third-party contact details.
