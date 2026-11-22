@@ -71,3 +71,10 @@ Done when: timeline confirmed.
 ## Done (last 30 days)
 
 _None yet._
+
+## Content plan follow-ups (workbook 2026-11-21)
+- T-011 · Sam · Confirm which Batch 2 and 3 pieces are published; workbook statuses were not updated after 2026-08-20 · due: TBC
+- T-012 · Matthias · Send the timely pick for slot #38 (due 2026-11-06 or 2026-11-09 per call 2026-11-06) · waiting on client
+- T-013 · Matthias · Approve Month 5 titles #39-#53, confirm Swiss status wording, MiCA wording and custody boundary · waiting on client
+- T-014 · Sam · Decide whether help-centre and onboarding docs become a Cycle 2 content workstream (Matthias, product call) · due: TBC
+See `brain/site/content-plan.md`.
