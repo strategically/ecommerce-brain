@@ -43,8 +43,8 @@ shokay:
 xchange360:
   name: Xchange360
   type: retainer
-  domains: [xchange-360.com, blkgroup.com]
-  titles: []
+  domains: [xchange-360.com, blkgroup.com]   # blkgroup.com is shared with vip360; check content
+  titles: [xchange 360, xchange360, exchange 360, matthias / sam, blk and strategically]
 spill911:
   name: Spill911
   type: retainer
@@ -54,6 +54,6 @@ vip360:
   name: VIP 360
   type: retainer
   domains: [vip-360.com]
-  titles: []
+  titles: [vip 360, vip360]
 ignore:
   titles: [indy]   # Strand IQ collaboration, not a client
