@@ -1,7 +1,7 @@
 # Xchange360
 
 - id: `xchange360` · type: retainer · DB schema: `xchange360` (created when first data is loaded)
-- Call cadence: TBC · Contact: TBC
+- Call cadence: about every two weeks as of Oct to Nov 2026, weekly during the 2026-06 to 2026-08 build · Contacts: Matthias Georgiou (Xchange360, day to day), James Hickson (BLK Group, sponsor)
 - Retainer / AI budget (CFO sets): TBC
 - Guardrails and do-not-touch: TBC
 
