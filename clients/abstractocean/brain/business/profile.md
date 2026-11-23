@@ -37,6 +37,8 @@ _Facts only, each with source and date. Calls cover 2025-04-17 to 2026-11-09 (97
 - Reviews: Target Bay hosted reviews into 2025-10; planned move to Redo not completed by 2025-10-17; reviews moved off Redo to a paid platform (planned 2026-07-20) and Junip live by 2026-08-03 (calls 2025-10-17, 2026-07-20, 2026-08-03).
 - Click-fraud / IP-blocking tool: Clixy (name as noted) (call 2025-10-24).
 - Tracking and analytics: GA4, Triple Whale (Triple), Search Console, stape.io server-side tracking from 2026-03 (calls 2026-01-07, 2026-03-16, 2026-03-23). Bot traffic skews analytics (calls 2025-06-26, 2026-07-27).
+- Redo MCP connected to Claude by Pete; Redo segments rebuilt and replicate dynamically from Shopify; Black Friday emails Claude-generated, regular emails to move to Claude by about the week of 2026-11-30 (call 2026-11-23).
+- US marketing SMS is not approved; Twilio approval covers the help desk only (call 2026-11-23).
 - Bundles: Easy Bundle Builder, Sell Easy, a Model Y "build your bundle" product (calls 2025-06-13, 2026-07-31, 2026-08-10).
 - Other apps and tools named: Cloud Search and Filter (replaces native search), Bundles (inventory bundling), Vertex (US sales tax), Aftership, ShipStation, Inventory Planner, Rebuy (previously used, judged heavy), Matrixify (metafield import and export), Glide (new-owner checklist app), a paid year-make-model (YMM) app (calls 2025-04-17, 2025-08-28, 2026-03-02, 2026-07-31).
 - Internal tooling built with Claude: weekly ordering recommendations from Shopify data, a standalone inventory system as a Cloudflare Worker, an in-house help desk on Cloudflare, brand-mention monitoring, competitor change alerts, dead-link checker, PO tracking linked to Trello (calls 2026-05-18, 2026-08-17, 2026-10-05).

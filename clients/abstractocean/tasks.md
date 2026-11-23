@@ -30,6 +30,42 @@ Why: Meta ready; Google prep to finish the day of the call.
 Context: [[brain/advertising/account-state]]
 Done when: Campaigns ready to switch on at promotion launch
 
+## T-007 · Finish Claude campaign-content dashboard
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Claude is now connected to Redo and will generate campaign content.
+Context: [[brain/business/profile]]
+Done when: Dashboard live; regular emails run through Claude the following week
+
+## T-008 · Send Black Friday emails and follow up non-openers
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Thursday is a weak send day; send Thursday evening or Friday, follow up Friday or Saturday.
+Context: [[brain/advertising/account-state]]
+Done when: Emails and non-opener follow-up sent
+
+## T-009 · Decide on standalone 25% off single armor SKUs for Cybertruck owners
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Possible weekend boost if sales are short; conditional, not confirmed.
+Context: [[brain/advertising/account-state]]
+Done when: Promo sent or ruled out
+
+## T-010 · Investigate Stape 404s and credit usage, update Pete
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Stape alert; 404s from an organic source may link to it. Awaiting reply from Sam's technical contact.
+Context: [[brain/advertising/account-state]]
+Done when: Cause found and reported to Pete
+
+## T-011 · Send Friday call invite
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Plan Black Friday weekend activity on Friday 2026-11-27.
+Context: [[brain/decisions]]
+Done when: Invite sent
+
+## T-012 · Build Abstract Ocean dashboard for Pete to review
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Sam's CFO/CMO/attribution/sales dashboard concept, first version for Abstract Ocean.
+Context: [[brain/business/unit-economics]]
+Done when: Pete has reviewed the dashboard
+
 ## Waiting on client
 
 ## T-005 · Update site and send remaining campaign email Saturday

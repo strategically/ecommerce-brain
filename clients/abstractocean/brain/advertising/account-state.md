@@ -36,6 +36,9 @@ _Current structure and strategy as of the last call, 2026-11-09. Currency not st
 - Google and Shopify account structure: a second organisation holds Shopify, a Merchant Center account, Google Ads and a Business Profile; do not change connections until Google advises (call 2026-11-09).
 
 ## Promotions in flight
+- Storewide 20% discount code working; armor bundles of three pieces get 25% off; Pete may add standalone 25% off single armor SKUs for Cybertruck owners over Black Friday weekend (conditional, not confirmed) (call 2026-11-23).
+- Black Friday send timing: Thursday evening or Friday, non-opener follow-up Friday or Saturday (call 2026-11-23).
+- Stape 404s from an organic source under investigation, linked to a usage alert; Stape usage about 5% a few days earlier (call 2026-11-23).
 - Black Friday: VIP access Thursday or Friday, public launch targeted for 16 November, running through 1 December; baseline discounts plus free or mystery gifts from consolidated warehouse inventory (calls 2026-11-02, 2026-11-09).
 - Week to Nov 16: 15,000 sessions, $30,000 revenue, $1.94 revenue/session, 677 add-to-carts, MER 3.72 (call 2026-11-16)
 - Budgets: PPF $210/day (no change for seven days), 3Y Broad $280/day (call 2026-11-16)
