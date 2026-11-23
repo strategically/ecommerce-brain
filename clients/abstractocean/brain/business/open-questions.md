@@ -75,3 +75,7 @@ _To confirm with the client. Conflicting, garbled or unlabelled figures are list
 - Debt figures are high level only: Wayflyer about $145k with a flat daily repayment of about $627 and Chase line about $100k (call 2026-05-11); Amex about 80,000 with no currency (call 2026-04-27); card limit raised to $25,000 (call 2026-05-27). No later update on any balance. Whether the 2025-08-04 plan to set aside 10 to 15% of sales for debt repayment was implemented is not recorded.
 - Wayflyer funding drawdown delayed on 2026-08-10; arrival date not recorded (call 2026-08-10).
 - How much AOV lift comes from PDP tools versus Google (call 2026-11-16)
+
+## Call 2026-11-23
+- Summary states "$17,000 revenue, $38,000 spend, 1.77% conversion" for the week; revenue and spend look transposed or garbled, currency not stated (call 2026-11-23).
+- Google Ads conversion value stated as $19,377 while another report showed about $10,848 for the same week; not reconciled (call 2026-11-23).
