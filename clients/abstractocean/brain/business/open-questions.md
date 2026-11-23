@@ -19,6 +19,10 @@ _To confirm with the client. Conflicting, garbled or unlabelled figures are list
 - Daily ad spend "$419" or "$419,000": speaker said both (call 2025-08-20). Last-seven-day revenue "returns" probably revenue (call 2025-08-28).
 - Profit "$4,201 from ads after $6,000 of Meta spend" (currency and period as stated; call 2025-05-29).
 
+## 2026-11-23 call figures
+- Summary says "$17,000 revenue, $38,000 spend" and 1.77% conversion; the speaker's revenue per session reads 2.27 in the transcript against the 1.94 and other figures in earlier notes, and "38" is probably sessions or a different unit, not spend. Currency and unit unclear; not used as facts (call 2026-11-23).
+- Google Ads conversion value $19,377 versus a second source of about $10,848 to $16,000 for the same weeks; Sam flagged it may not be right (call 2026-11-23).
+
 ## Product price and cost conflicts
 - PPF kit price: $699 versus $1,299 (the summary gives a retail start price of US$1,299; the transcript preview mentions a starting price of $699 and a white-label kit price of $1,299) (call 2026-02-23). Confirm before use.
 - "$6.99" for the PPF landing page sale is probably $699 (summary says $6.99, transcript preview reads 699) (call 2026-03-30).

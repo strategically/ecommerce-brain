@@ -30,6 +30,24 @@ Why: Meta ready; Google prep to finish the day of the call.
 Context: [[brain/advertising/account-state]]
 Done when: Campaigns ready to switch on at promotion launch
 
+## T-007 · Investigate Stape 404s and credit usage, update Pete
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Stape alert; 404s from an unlinked organic source may be contributing.
+Context: [[brain/advertising/account-state]]
+Done when: Cause identified and Pete updated
+
+## T-008 · Send Friday meeting invite for Black Friday weekend planning
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Reconnect Friday to plan weekend activity.
+Context: [[brain/advertising/account-state]]
+Done when: Invite sent for Fri 2026-11-27
+
+## T-009 · Build Abstract Ocean dashboard for Pete
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Pete wants to see the CFO/CMO/attribution/sales dashboard direction.
+Context: [[brain/business/profile]]
+Done when: Dashboard shared with Pete (no date stated)
+
 ## Waiting on client
 
 ## T-005 · Update site and send remaining campaign email Saturday
@@ -43,6 +61,18 @@ Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-16
 Why: Staged for after Round 42.
 Context: [[brain/site/page-inventory]]
 Done when: Live after Round 42
+
+## T-010 · Finish Claude campaign dashboard (Redo content)
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Claude-generated campaign content through Redo; regular emails via Claude by next week.
+Context: [[brain/business/profile]]
+Done when: Dashboard live (stated: within about two days)
+
+## T-011 · Send Black Friday emails and assess armor single-SKU promo
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Avoid Thursday; follow up non-openers Fri/Sat; 25% off single armor SKUs for Cybertruck owners only if needed.
+Context: [[brain/advertising/account-state]]
+Done when: Emails sent; promo decision made by Friday call
 
 ## Done (last 30 days)
 

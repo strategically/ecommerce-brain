@@ -84,3 +84,4 @@ _Chronological. Later rows that supersede earlier ones say so. "Decision" is wha
 | 2026-11-16 | Hold PPF budget for seven days | Two increases made within a week | call 2026-11-16 | |
 | 2026-11-16 | Launch VIP Black Friday on downturn or competitor promos; public sale tentatively Nov 21-22 | Margins favour delay | call 2026-11-16 | |
 | 2026-11-19 | Cybertruck budget toward about $100 | Strong campaign, about $3 extra per conversion | call 2026-11-19 | |
+| 2026-11-23 | Black Friday emails Thursday evening or Friday, follow up unopens Friday/Saturday; standalone 25% single armor SKU email to Cybertruck owners only if needed (proposed); Sam to build an Abstract Ocean dashboard | Thursday is Thanksgiving; want a sales buffer | call 2026-11-23 | |

@@ -31,11 +31,12 @@ _Current structure and strategy as of the last call, 2026-11-09. Currency not st
 - Judge results on measured actuals and a cutoff date, because session counts are inflated since bot protection was removed (call 2026-07-27).
 
 ## Conversion tracking
-- Server-side tracking via stape.io set up from 2026-03; new server-side goal returns about 25% more signal (calls 2026-03-16, 2026-03-23). Tag Manager conversion issue under repair 2026-04-27 (call 2026-04-27).
+- Server-side tracking via stape.io set up from 2026-03; new server-side goal returns about 25% more signal (calls 2026-03-16, 2026-03-23). Tag Manager conversion issue under repair 2026-04-27 (call 2026-04-27). Stape usage about 5% in mid-November; Stape 404 from an unlinked organic source under investigation (call 2026-11-23).
 - Earlier tracking break: post-purchase upsell app broke GA4 purchase tracking in 2025-09; estimated attribution loss about 18 to 20% of transactions (call 2025-10-01).
 - Google and Shopify account structure: a second organisation holds Shopify, a Merchant Center account, Google Ads and a Business Profile; do not change connections until Google advises (call 2026-11-09).
 
 ## Promotions in flight
+- Storewide discount code at 20%, working across products; armor bundles of three pieces get 25%. A possible 25%-off single armor SKU email to Cybertruck owners is under consideration, not committed (call 2026-11-23).
 - Black Friday: VIP access Thursday or Friday, public launch targeted for 16 November, running through 1 December; baseline discounts plus free or mystery gifts from consolidated warehouse inventory (calls 2026-11-02, 2026-11-09).
 - Week to Nov 16: 15,000 sessions, $30,000 revenue, $1.94 revenue/session, 677 add-to-carts, MER 3.72 (call 2026-11-16)
 - Budgets: PPF $210/day (no change for seven days), 3Y Broad $280/day (call 2026-11-16)
