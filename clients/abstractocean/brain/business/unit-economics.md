@@ -39,6 +39,7 @@ _Margins, fees, break-even. Source and date on every line. Currency not stated o
 ## Shipping and discounts
 - Free-shipping threshold $75 (call 2025-04-25); Sam suggested $99, remove the $4 option and standard at $7.50 (call 2025-04-25). Outcome not recorded (see open-questions).
 - Site-wide automatic discounts 30% off orders over $150 and 25% off orders up to $100 in 2025-11; bundles and armour are exempt (call 2025-11-12).
+- Storewide 20% discount live for Black Friday; armor bundles of three pieces get 25% (call 2026-11-23).
 - Sign-up incentive 15% off (call 2025-10-09). Tesla owners club permanent 15% discount (call 2025-05-16).
 - Shipping landed costs vary by product size; category-level shipping percentages suggested if per-SKU landed cost is not practical (call 2026-09-21).
 

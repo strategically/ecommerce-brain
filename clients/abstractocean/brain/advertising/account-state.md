@@ -35,6 +35,8 @@ _Current structure and strategy as of the last call, 2026-11-09. Currency not st
 - Earlier tracking break: post-purchase upsell app broke GA4 purchase tracking in 2025-09; estimated attribution loss about 18 to 20% of transactions (call 2025-10-01).
 - Google and Shopify account structure: a second organisation holds Shopify, a Merchant Center account, Google Ads and a Business Profile; do not change connections until Google advises (call 2026-11-09).
 
+- Stape 404s are suspected of contributing to the credit/usage alert; under investigation with Sam's technical contact (call 2026-11-23).
+
 ## Promotions in flight
 - Black Friday: VIP access Thursday or Friday, public launch targeted for 16 November, running through 1 December; baseline discounts plus free or mystery gifts from consolidated warehouse inventory (calls 2026-11-02, 2026-11-09).
 - Week to Nov 16: 15,000 sessions, $30,000 revenue, $1.94 revenue/session, 677 add-to-carts, MER 3.72 (call 2026-11-16)
@@ -44,3 +46,5 @@ _Current structure and strategy as of the last call, 2026-11-09. Currency not st
 - Cybertruck budget moving from $65 toward about $100 (call 2026-11-19)
 - Black Friday VIP email: $851 attributed after about 6:00 PM send (call 2026-11-19)
 - Some orders lack Shopify attribution (full kit order, manual $2,300 order) (call 2026-11-19)
+- One storewide 20% discount code covers all products; an earlier code error was a code with no products linked (call 2026-11-23)
+- Pete's plan: Black Friday email Thursday evening or Friday, unopens follow-up Friday or Saturday, possibly a 25% off individual armor SKUs email to Cybertruck owners (call 2026-11-23)

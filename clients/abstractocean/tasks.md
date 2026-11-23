@@ -30,6 +30,24 @@ Why: Meta ready; Google prep to finish the day of the call.
 Context: [[brain/advertising/account-state]]
 Done when: Campaigns ready to switch on at promotion launch
 
+## T-007 · Investigate Stape 404s and credit alert
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Pete got an alert about running low; Claude suspected 404s contribute; Sam's technical contact has the documentation.
+Context: [[brain/advertising/account-state]]
+Done when: Cause identified and Pete updated
+
+## T-008 · Send Friday meeting invite (Black Friday weekend plan)
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Reconnect Friday 2026-11-27 to plan Black Friday weekend activity.
+Context: [[brain/advertising/account-state]]
+Done when: Invite sent
+
+## T-009 · Build Abstract Ocean dashboard for Pete to review
+Owner: Sam · Status: proposed · Agreed: call 2026-11-23
+Why: Sam is building CFO, CMO, attribution and sales views and will show Pete an Abstract Ocean version.
+Context: [[brain/business/unit-economics]]
+Done when: Dashboard shared with Pete
+
 ## Waiting on client
 
 ## T-005 · Update site and send remaining campaign email Saturday
@@ -43,6 +61,18 @@ Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-16
 Why: Staged for after Round 42.
 Context: [[brain/site/page-inventory]]
 Done when: Live after Round 42
+
+## T-010 · Finish Claude campaign dashboard (Redo content generation)
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Claude to generate campaign email content via Redo MCP; Pete approves.
+Context: [[brain/business/profile]]
+Done when: Dashboard live (stated: within about two days)
+
+## T-011 · Send Black Friday emails and assess armor single-SKU promo
+Owner: Pete (client) · Status: proposed · Agreed: call 2026-11-23
+Why: Email Thursday evening or Friday, unopens follow-up Friday or Saturday; possible 25% off individual armor SKUs to Cybertruck owners.
+Context: [[brain/advertising/account-state]]
+Done when: Emails sent; armor promo decision made
 
 ## Done (last 30 days)
 
