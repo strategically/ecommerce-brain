@@ -32,6 +32,7 @@ _Current structure and strategy as of the last call, 2026-11-09. Currency not st
 
 ## Conversion tracking
 - Server-side tracking via stape.io set up from 2026-03; new server-side goal returns about 25% more signal (calls 2026-03-16, 2026-03-23). Tag Manager conversion issue under repair 2026-04-27 (call 2026-04-27).
+- Stape 404s from an organic URL not linked are suspected of contributing to a Stape alert; unconfirmed, under review (call 2026-11-23).
 - Earlier tracking break: post-purchase upsell app broke GA4 purchase tracking in 2025-09; estimated attribution loss about 18 to 20% of transactions (call 2025-10-01).
 - Google and Shopify account structure: a second organisation holds Shopify, a Merchant Center account, Google Ads and a Business Profile; do not change connections until Google advises (call 2026-11-09).
 
