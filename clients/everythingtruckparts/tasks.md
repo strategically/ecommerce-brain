@@ -6,17 +6,17 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
-## T-001 · Rebuild kit page layout
+## T-001 · Remove app volume-discount block from kit pages
 Owner: Sam · Status: proposed · Agreed: call 2026-11-24
-Why: volume-discount app block does not change the SKU; engine choice should be first.
+Why: the "Get more, save more" app block does not change the SKU; the built-in 6+ tier already exists.
 Context: [[brain/site/page-inventory.md]]
-Done when: draft "ETP New Filter Page" shows engine pills at top (restyled, "Choose your engine"), larger chassis label, year spacing in heading, built-in "buy 6+ save 5%" option, and no app volume-discount block; John approves.
+Done when: kit page shows no app block (Item 1-6 pickers); built-in buy 6+ save 5% stays; engine pill styling and label size checked by eye; John approves.
 
-## T-002 · Limit engines, years and fitment table to the selected chassis
+## T-002 · Limit copy, FAQ and fitment box to the selected chassis
 Owner: Sam · Status: proposed · Agreed: call 2026-11-24
-Why: kit pages currently list other year brackets and every engine in the fitment table.
+Why: pills are already chassis-only, but FAQ, intro copy and the "No Fitment Data" box still reference other years and engines.
 Context: [[brain/catalogue/enrichment-rules.md]]
-Done when: each kit page shows only its own chassis years and engines; fitment box omitted on new kits; own replacement-interval schedule used.
+Done when: FAQ example, "Your Silverado 1500" text and engine list match the chassis; fitment box omitted on kits; own replacement-interval wording (no "owner's manual takes precedence").
 
 ## T-003 · Hide component part numbers and brand SKUs on kit pages
 Owner: Sam · Status: proposed · Agreed: call 2026-11-24
