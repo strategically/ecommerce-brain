@@ -51,6 +51,8 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Which developer is selected for the theme migration, and whether the new theme has launched (calls 2026-01-19, 2026-02-17). Timing of the find page schema fix (call 2026-05-12).
 - Cross-reference data from the third party (Lashk): whether it will arrive is unknown, Sam to chase (call 2025-08-26).
 - Whether to move to a delivery platform to lower shipping cost (call 2025-10-28).
-- Organic revenue decline needs investigation (call 2026-11-10).
+- Organic revenue decline needs investigation (call 2026-11-10); about 20% down in the latest period (call 2026-11-24).
+- Revenue run-rate: about $42-43k per month (call 2026-11-10) versus month-to-date about 70,000 with 83,000 projected and 100,000 per month said to be reachable (call 2026-11-24, currency and basis not stated).
+- Return rate for the period spoken as 29% and 41% with unclear arithmetic; one $5,000 shocks order skews it (call 2026-11-24).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
