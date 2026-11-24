@@ -54,3 +54,5 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+- Whether kit pricing will later rise to lift AOV; initial launch at current pricing (call 2026-11-24).
+- Organic traffic reportedly down about 20%; cause not established (call 2026-11-24).

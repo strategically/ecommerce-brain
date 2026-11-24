@@ -38,3 +38,9 @@ _Site state, pages and conversion tests, latest first within each section. Each 
 - Rejoiner pop-up live with deliverability reported high; emails sent from a dedicated subdomain (call 2026-08-18). Flows approved 2026-08-04: cart and browse abandonment, welcome series, pop-ups (call 2026-08-04).
 - Goal: capture email at vehicle save or through an exit-intent popup (call 2026-07-21). Whether Convermax can do this is open (call 2026-10-14).
 - Reviews through Target Bay; request at order placement, reminder after 7 days (call 2025-04-29).
+
+## Kit page rules (call 2026-11-24)
+- Kits organised by chassis; only kits for the selected chassis shown (call 2026-11-24).
+- Engine selection uses pills; styling to be improved for mobile clarity (call 2026-11-24).
+- No component SKUs or filter details shown; no volume pricing or fitment disclaimer on new kit pages; both stay on other filter pages (call 2026-11-24).
+- Fitment table still to be filtered to engines for the selected chassis (call 2026-11-24).
