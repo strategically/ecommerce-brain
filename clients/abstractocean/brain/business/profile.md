@@ -34,6 +34,7 @@ _Facts only, each with source and date. Calls cover 2025-04-17 to 2026-11-09 (97
 ## Channels and tools in use
 - Paid: Google Ads (Performance Max, Shopping, search), Meta (Facebook and Instagram), YouTube; Bing tested and shut down 2026-05-18; AdRoll retargeting tested 2025-08 to 2025-09; Reddit tested and killed 2026-02-16 (calls 2026-05-18, 2025-08-11, 2026-02-16). See `advertising/account-state.md`.
 - Email and SMS: Klaviyo until 2025-06; Target Bay (also called BayEngage) mid-2025; Redo from about 2025-09-17. Redo retained for returns and shipping, with support moved to an in-house help desk (calls 2025-06-06, 2025-09-15, 2026-10-05). Email platform will not change this quarter (call 2026-10-05).
+- Redo connected to Claude through Redo's MCP; Shopify segments rebuilt as dynamic segments (call 2026-11-23). Twilio approved for the help desk only; marketing SMS needs separate US approval and is not approved (call 2026-11-23).
 - Reviews: Target Bay hosted reviews into 2025-10; planned move to Redo not completed by 2025-10-17; reviews moved off Redo to a paid platform (planned 2026-07-20) and Junip live by 2026-08-03 (calls 2025-10-17, 2026-07-20, 2026-08-03).
 - Click-fraud / IP-blocking tool: Clixy (name as noted) (call 2025-10-24).
 - Tracking and analytics: GA4, Triple Whale (Triple), Search Console, stape.io server-side tracking from 2026-03 (calls 2026-01-07, 2026-03-16, 2026-03-23). Bot traffic skews analytics (calls 2025-06-26, 2026-07-27).
