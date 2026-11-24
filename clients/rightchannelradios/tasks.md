@@ -6,7 +6,29 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
-_None yet._
+## T-001 · Lower Google Ads budget for Black Friday
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Agreed to reduce spend over Black Friday then assess; unit of '105' not stated
+Context: [[brain/business/open-questions.md]]
+Done when: Budget reduced to the confirmed amount and performance reviewed after Black Friday
+
+## T-002 · Update product page shipping language, recommendations and comparison boxes
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Pat's requests: noon MST cutoff, no guaranteed arrival dates, antenna/coax/mount recommendations, comparison below specs sized by radio and reviews
+Context: [[brain/site/page-inventory.md]]
+Done when: Updated pages shown in a preview Pat has reviewed
+
+## T-003 · Fix Shopify preview access and send Pat the CRO preview link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Preview only worked with view=CRO parameter
+Context: [[brain/site/page-inventory.md]]
+Done when: Pat opens the product page preview without the view=CRO parameter
+
+## T-004 · Finalise Black Friday promotion details for Google Ads (client)
+Owner: Pat · Status: proposed · Agreed: call 2026-11-24
+Why: Google Ads promotion approval can take about 48 hours
+Context: [[brain/business/open-questions.md]]
+Done when: Offer and percentage supplied to Sam
 
 ## Waiting on client
 

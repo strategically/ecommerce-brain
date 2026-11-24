@@ -1,1 +1,3 @@
 # Right Channel Radios: pages and CRO tests
+- Product pages: guaranteed arrival dates to be removed, same-day shipping urgency kept; comparison content moves below description and specs and matches radio size; recommendations add antenna, coax and mounts where needed, no redundant SWR meters (call 2026-11-24).
+- Shopify preview needed a view=CRO parameter; native preview access to be fixed (call 2026-11-24).
