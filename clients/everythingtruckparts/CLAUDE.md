@@ -1,7 +1,7 @@
 # Everything Truck Parts
 
 - id: `everythingtruckparts` · type: retainer · DB schema: `everythingtruckparts` (created when first data is loaded)
-- Call cadence: calls with John recorded 2025-04-29 to 2026-11-10; recurring Tuesday status calls were proposed 2026-01-20 (call 2026-01-20)
+- Call cadence: calls with John recorded 2025-04-29 to 2026-11-24; recurring Tuesday status calls were proposed 2026-01-20 (call 2026-01-20)
 - Retainer / AI budget (CFO sets): TBC. Agency fee was $1,500 per month for three months from 2026-02-17 (call 2026-02-17)
 - Guardrails and do-not-touch: TBC. Known: no further scaling without review (call 2025-06-17); increase budgets in small steps (call 2025-09-05); John approves feed and product removals (call 2026-01-20)
 - Contact: John (site operations, Shopify changes); finance lead Bill (call 2025-06-17)
@@ -23,4 +23,4 @@ Read `tasks.md` next, then `brain/`.
 - `brain/site/page-inventory.md`: theme, vehicle and kit pages, search, checkout and CRO tests
 - `brain/decisions.md`: dated decisions
 - `brain/timeline.md`: phases and milestones
-- `calls/`: 41 call notes (2025-04-29 to 2026-11-10); email addresses removed from attendee lines
+- `calls/`: 42 call notes (2025-04-29 to 2026-11-24); email addresses removed from attendee lines
