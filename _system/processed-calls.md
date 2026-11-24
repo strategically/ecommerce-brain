@@ -24,3 +24,7 @@ One line per Fyxer recording the extractor has handled: `<recording id> | <clien
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6h24aga56orj8ghl6gsk8h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g70rjegq56h148ea66h2j0e9k6ks32da58gpk6h9k6sojgc226cq0 | vip360 | 2026-10-02
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8p2jgc218p0jchho6op48h1g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g64s48h1o6sqjcd1n88ok4c9k8914ag9h6cojcgpk890j6gho6p20 | vip360 | 2026-10-27
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:9orqlkki84cptuvrfbg4bihhds_20261123T190000Z | abstractocean | 2026-11-23
+096da716-1af9-4b9b-87f6-2662b6e0f0bc:r668oa3p24si9ed65igojld8ho_20261124T200000Z | rightchannelradios | 2026-11-24
+096da716-1af9-4b9b-87f6-2662b6e0f0bc:5e0iams7i8c9eakjei38p76k4n | everythingtruckparts | 2026-11-24
+096da716-1af9-4b9b-87f6-2662b6e0f0bc:0g8c0892lvfbmq63ien2ah2af8_20261124T163000Z | everythingtruckparts | 2026-11-24 (no business content, no note written)
+096da716-1af9-4b9b-87f6-2662b6e0f0bc:6uo7bpnkrijdg3lgit7cr4apr0 | xchange360 | 2026-11-24 (no business content, no note written)

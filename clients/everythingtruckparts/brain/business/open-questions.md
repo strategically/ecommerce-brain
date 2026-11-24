@@ -54,3 +54,4 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+- 2026-11-24 call figures (6,000 sessions, $11,418 net revenue, $2,001 ad spend; about $70,000 month-to-date) have no stated period and are not reconciled; kept in the call note only (call 2026-11-24).

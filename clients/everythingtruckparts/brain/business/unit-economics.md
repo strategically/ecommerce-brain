@@ -33,3 +33,5 @@ _Margins, fees, break-even. Source and date on every line. Figures are as stated
 - Tonneau covers: cheap under $500, average $1,000-1,500 (call 2025-04-29).
 - Break-even modelling (required ROAS, revenue, daily spend) was worked through on 2025-06-17; the figures are not in the notes (call 2025-06-17).
 - Fuel filters were above break-even with high conversion value (call 2026-02-09).
+- Two-payment option kept; PayPal may offer six months financing; twelve payments not offered because fees can approach 10% (call 2026-11-24).
+- One Bilstein shocks order accounted for more than $5,000 in returns (call 2026-11-24).
