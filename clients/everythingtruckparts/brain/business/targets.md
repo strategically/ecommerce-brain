@@ -10,6 +10,8 @@ _Sessions / growth plan and profit targets. Latest stated target first within ea
 - Additional sessions required about 8,000 per month (call 2026-06-09).
 - Earlier goal: another $20,000-$30,000 of revenue, profitably (call 2025-09-05).
 
+- Proposed by Sam, not recorded as agreed: increase advertising and data investment toward $100,000 monthly online revenue (call 2026-11-24). Conflicts with the $50,000 target above.
+
 ## Efficiency and returns
 - Target return rate 15% or below, ideally 10-15% (call 2026-01-20).
 - Wix campaign to be removed if it does not reach about 5-7x ROAS (call 2026-02-17).

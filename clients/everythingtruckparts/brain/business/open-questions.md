@@ -10,6 +10,8 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Budget guidance differs: $80/day trial (call 2025-06-27); $250-$300/day recommended (call 2026-09-29); Google recommended $300/day, filtered campaign set at $3,000 per month (call 2026-10-27).
 - Whether to run a Wix shopping test at about $10/day with a high ROAS was proposed, not decided (call 2026-02-03). Whether the Ford F150 Raptor test was approved is unknown (call 2026-02-03).
 
+- Monthly revenue target: $50,000 (calls 2026-01-20, 2026-11-10) versus Sam's proposed $100,000 monthly online-revenue goal (call 2026-11-24); not confirmed.
+
 ## Efficiency and attribution (conflicting bases)
 - MER figures differ and bases are unclear: roughly 16-20 (call 2025-09-05); about 10x ROAS (call 2026-05-26); two-week MER about 15x excluding a large order (call 2026-08-18); blended net-new about 4.38 (call 2026-09-10); about 10 (calls 2026-10-27, 2026-11-10). The 2026-09-10 note says the basis differs but does not explain how.
 - Reported campaign ROAS about 0.26 against a stated true ROAS closer to 2.4 (call 2026-03-17). 30-day conversion value/cost 5.71 (enabled accounts) and 4.35 (all accounts), currency and period not fully stated (call 2026-09-29).

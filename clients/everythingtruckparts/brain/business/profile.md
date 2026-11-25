@@ -39,6 +39,10 @@ _Facts only, each with source and date. Current state as of the latest call (202
 - Tracking: server-side tracking via Stape.io with Google Tag Manager decided 2026-03-17 (call 2026-03-17).
 - Competitors named: Summit Racing, Amazon (call 2025-06-17), Geno's Garage (call 2025-07-07).
 
+## Suppliers
+- Rhino no longer accepts drop-ship orders unless the item is in stock and cancels orders for items about a week out (call 2026-11-24).
+- Some drop-shipped manufacturer items can be available while not in stock at Turn14; customers sometimes accept a two-to-three-week lead time (call 2026-11-24).
+
 ## Known structural problems
 - Bot traffic inflates Shopify session counts; Shopify and Google throttle bots, sometimes removing legitimate sessions (calls 2026-02-03, 2026-08-04).
 - Checkout completion shows the largest funnel drop; shipping cost and returns are the suspected causes (calls 2026-04-14, 2026-05-12, 2026-07-21).

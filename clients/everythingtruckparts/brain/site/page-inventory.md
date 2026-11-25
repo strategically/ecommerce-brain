@@ -17,6 +17,11 @@ _Site state, pages and conversion tests, latest first within each section. Each 
 - Fitment-driven search-parameter URLs route uncertain matches to a filtered search page (call 2026-08-18).
 - Bundles of air, fuel and cabin filters to raise average order value (call 2026-09-10).
 
+- Kits organised by chassis, showing only kits for the selected chassis; engine selection as pills rather than a boxed list; chassis and year wording enlarged (call 2026-11-24).
+- New confirmed-fitment kit pages omit the fitment disclaimer; other filter pages keep it (call 2026-11-24).
+- Volume pricing is triggered by brand and stays on the other filter pages; quantity-discount display on the kit page agreed (call 2026-11-24).
+- Kit component SKUs and filter details are not displayed at launch; current kit pricing used initially (call 2026-11-24).
+
 ## Homepage (2026-02-03 design decisions)
 - Prioritise vehicle selection with a centred call to action "Find parts for your vehicle"; move vehicle search bar into the header above the fold with copy "Choose your vehicle" and "Click your brand below"; brand tiles as obvious "Select" buttons; reduce hero height; "Shop by category" limited to four top categories; remove weekly "Deals" banner; brands in three rows (call 2026-02-03).
 - Landing-page experience does not match search intent and needs redesign (call 2026-09-10). Homepage bounce rate was judged too high (call 2025-04-29).
