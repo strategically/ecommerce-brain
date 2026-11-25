@@ -52,6 +52,7 @@ _Current state as of the latest call (2026-11-10). Each line is dated; later cal
 - Bot traffic inflates sessions; reporting uses a human-only view (call 2026-02-03). Shopify intermittently throttles bots, marks product pages unavailable and disrupts Google ads (call 2026-06-23).
 - A Cloudflare deployment caused Merchant Center product ID mismatches; removing it stabilised the feed (call 2026-08-04).
 - UTM parameters are unavailable in conversion details for at least one order (call 2026-11-10).
+- Shocks and struts, and Rhino, to be excluded from marketing (call 2026-11-24).
 
 ## Shared decisions with Spill 911
 - Budget reductions on 2025-06-17 were agreed for both accounts; ETP side is in the change-log. Spill 911 detail lives in its own client folder.

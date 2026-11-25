@@ -54,3 +54,7 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## Added 2026-11-24
+- Revenue label on the 2026-11-24 call (net versus gross after returns) and spend, efficiency and revenue figures not reconciled; kept in the call note only (call 2026-11-24).
+- Whether the selected SKU is included in the order when a kit is added to the cart (call 2026-11-24).
