@@ -4,6 +4,7 @@ _Sessions / growth plan and profit targets. Latest stated target first within ea
 
 ## Revenue
 - Primary objective: $50,000 monthly revenue while reducing the blended return impact (call 2026-01-20). Restated 2026-11-10: campaign restructure to remove non-converting catalogue spend and target roughly $50,000 monthly revenue (call 2026-11-10).
+- Proposed 2026-11-24: grow toward $100,000 monthly online revenue; John said it seemed attainable. Not yet an agreed target (call 2026-11-24).
 - Operational KPI in January 2026: about two additional high-AOV intake transactions per day to reach $50,000 per month (call 2026-01-20).
 - Target net sales about $62k after returns; period not stated (call 2026-06-09).
 - Extra net revenue needed about $566 per day, roughly 3 additional orders daily (call 2026-06-09).

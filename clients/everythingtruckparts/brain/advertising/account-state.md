@@ -8,6 +8,8 @@ _Current state as of the latest call (2026-11-10). Each line is dated; later cal
 - Google spend and CPC were reported down and Bing spend slightly up; period not stated (call 2026-10-13).
 
 ## Current structure (latest first)
+- Shocks and struts category: marketing stopped because of poor returns; Rhino removed from marketing because it cancels out-of-stock drop-ship orders (call 2026-11-24). Decided on the call, not confirmed as executed.
+- Silverado filter-kit campaign to go live with component SKUs and filter details hidden (call 2026-11-24).
 - Launch approach: complete vehicles year by year, Silverado first, then start advertising within one week for completed model years (call 2026-11-10).
 - Campaign restructuring to remove non-converting catalogue spend (call 2026-11-10).
 - Campaign structure per 2026-09-29: all-products campaign at high target ROAS; brand filter campaigns (part-number intent); vehicle-specific search and shopping to follow (call 2026-09-29).

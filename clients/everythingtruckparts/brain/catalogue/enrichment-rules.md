@@ -61,3 +61,4 @@ _Rules and standards stated on calls for product data, structured data and fitme
 - Convermax needs a flat CSV upload to map fitment for Baldwin, Donaldson, Wix and Fleet Guard (call 2026-08-18). Held fitment items are narrowed or removed where manufacturer data contradicts the vehicle-year plan (call 2026-11-10).
 - Selected vehicle stored in order note attributes today; moving to metafields under consideration (call 2026-10-13). Year, make, model and engine passed to the customer profile as separate backend fields (call 2026-10-14).
 - Equipment-centred fitment matrix mapping four core filter types, starting with top-volume equipment (call 2025-11-25).
+- Kit fulfilment lookup: each kit SKU maps to its component filters, grouped by brand; Fleetguard details go to a different fulfilment recipient than Baldwin, WIX and Donaldson (call 2026-11-24).

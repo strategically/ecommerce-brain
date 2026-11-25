@@ -29,6 +29,7 @@ _Site state, pages and conversion tests, latest first within each section. Each 
 - X Cloud Search does not index meta objects by default; owner open to adding it; search component planned to accept part numbers and vehicle make/model with attribute filters on the left (call 2025-09-26).
 - Brand drop-down filters were not showing at the top of search results; cause unknown (call 2025-10-28).
 - Convermax: vehicle garage persists via cookie or app integration; persistence in incognito uncertain (call 2026-10-14). Vehicle data written to Shopify order "additional details" and customer meta fields, inconsistently (call 2026-07-23).
+- New kit pages: organised by chassis, showing only kits for the selected chassis; engine selection as pills; component SKUs and filter details hidden; volume pricing and fitment disclaimer left off (kept on other filter pages; tags may control this); replacement intervals to be written; product-page fitment table to list only engines for the selected chassis (call 2026-11-24).
 
 ## Cart, checkout and CRO tests
 - Name requirement before shipping rates removed as a trial; John to monitor for one week (call 2025-07-07). Result not recorded in the notes.
