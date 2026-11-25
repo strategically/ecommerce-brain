@@ -28,3 +28,5 @@ _Sessions / growth plan and profit targets. Latest stated target first within ea
 - Recommended budget scale about $250 to $300 per day to allow algorithmic scaling (call 2026-09-29).
 - Google recommended $300 per day on a campaign; John said about $9,000 per month would be needed (call 2026-10-27). Filtered campaign set at $3,000 per month (call 2026-10-27).
 - Husky (new-brand) campaign budget moving from $55/day toward $100/day (call 2026-06-09).
+
+- Proposed goal: $100,000 monthly online revenue, with more advertising and data investment (Sam proposed, John said attainable) (call 2026-11-24).
