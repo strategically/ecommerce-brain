@@ -54,3 +54,4 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+- Revenue target: roughly $50,000 monthly (call 2026-11-10) versus $100,000 monthly goal proposed by Sam (call 2026-11-24). Which stands? Basis (online only, gross or after returns) not stated.
