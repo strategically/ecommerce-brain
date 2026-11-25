@@ -37,6 +37,8 @@ _Rules and standards stated on calls for product data, structured data and fitme
 - Bundle Lab versus Shopify meta objects is undecided (call 2026-11-10).
 - Subscription offered as a post-purchase upsell; first order not discounted; avoid a free-shipping promise, highlight "save on shipping" instead (call 2026-09-29).
 
+- Fulfilment needs a kit SKU to component filter mapping, separated by brand (call 2026-11-24). Component details are hidden from customers at launch (call 2026-11-24).
+
 ## Structured data (schema / JSON-LD)
 - Remove all existing schema and replace it with one consistent implementation; only a single product markup block per page (calls 2025-07-14, 2025-07-22).
 - Scope: item list, collection page, organisation, website, breadcrumbs, product and review markup; pricing and review schema first (call 2025-07-14).
