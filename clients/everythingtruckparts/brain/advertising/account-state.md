@@ -55,3 +55,6 @@ _Current state as of the latest call (2026-11-10). Each line is dated; later cal
 
 ## Shared decisions with Spill 911
 - Budget reductions on 2025-06-17 were agreed for both accounts; ETP side is in the change-log. Spill 911 detail lives in its own client folder.
+
+- Shocks and struts category: marketing to stop (decided, not confirmed as executed; call 2026-11-24).
+- Rhino removed from marketing because it cancels out-of-stock drop-ship orders (call 2026-11-24).
