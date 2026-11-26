@@ -28,3 +28,6 @@ _Targets, thresholds and validation rules set on calls. Weekly and fortnightly p
 
 ## Operations
 - 5,000 products per block for attribute extraction and import, next block February 2026 (call 2026-01-07).
+
+## Priority (call 2026-11-25)
+- Reach a consistent $100,000 monthly sales before deeper user-behaviour analysis or extensive systems work (call 2026-11-25). Whether the figure is online only or includes offline sales is not stated (see open-questions).

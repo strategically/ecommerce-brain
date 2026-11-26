@@ -4,6 +4,7 @@ _Newest first. Currency not stated on most calls. Where a later call supersedes 
 
 | Date | Change | Source |
 |---|---|---|
+| 2026-11-25 | Proposed, not confirmed: Bing +$500 every two weeks; John may reduce over year-end slowdown | call 2026-11-25 |
 | 2026-11-11 | Bing placement exclusions added; Bing daily spend capped from growing and watched daily; Bing campaigns target Peabody, Durham, Valley Craft, Little Giant, UltraTech; Google cut not repeated | call 2026-11-11 |
 | 2026-10-28 | Google spend to go toward $1,000 (also stated $500-1,000), softening the 2026-10-14 50% cut; Bing brand campaigns at about $10 a day each | call 2026-10-28 |
 | 2026-10-14 | Separate Bing campaigns and feed (Simprosys) from Google; Google spend to be cut about 50%, initial $500-1,000 to Bing tests; reverses the 2026-08-19 plan to increase spend | call 2026-10-14 |
