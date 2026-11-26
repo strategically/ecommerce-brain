@@ -39,3 +39,6 @@ Vendor (brand), manufacturer part number, benefits and features (short bullets),
 - Product-specific PDFs uploaded as content files via a Matrixify export; fix the certificate 404 (call 2026-10-30).
 - Update existing website products first; newly added products stay draft until priced by Bill (call 2026-10-30).
 - Complete product enrichment before pushing the feed (call 2026-10-14). Publish enrichment metafields to Shopify and overlay the enriched feed in Merchant Center, keeping the existing Simprosys feed (call 2026-04-29).
+- Add brand names to titles of about 16,000-17,000 products lacking one, keeping a space between brand and product name, and apply product taxonomy (call 2026-11-25).
+- Leave the Shopify agentic-catalog field configuration unchanged for now (call 2026-11-25).
+- Standardise core fields (dimensions, weight, materials, safety information) first, then brand- and product-specific information, reflected in storefront and schema (call 2026-11-25).

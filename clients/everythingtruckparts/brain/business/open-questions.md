@@ -54,3 +54,8 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## Added from call 2026-11-24
+- Revenue goal: Sam proposed working toward $100,000 monthly online revenue and John said it seemed attainable (call 2026-11-24); the restructure target was about $50,000 monthly (call 2026-11-10). Which is the working target?
+- Who builds the kit SKU to component mapping spreadsheet for fulfilment is not stated (call 2026-11-24).
+- Whether the consolidated reporting system pulls from Shopify and Google or Shopify only (John's question, call 2026-11-24).
