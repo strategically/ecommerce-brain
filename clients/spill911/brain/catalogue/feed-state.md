@@ -26,3 +26,6 @@ _Facts from calls only. Counts are as spoken and may be rough. Dated; later call
 
 ## Titles tracking
 - Control tracking and flagged-SKU review (call 2025-12-11). Vestal titles drove most of a Merchant clicks uplift on one call (call 2026-03-04); performance report two weeks after title updates (call 2026-01-21).
+
+## Added by call extractor (2026-11-26)
+- Import of about 20,000 product changes run; titles, taxonomy and Shopify catalog data under review for search and AI discovery (call 2026-11-25).

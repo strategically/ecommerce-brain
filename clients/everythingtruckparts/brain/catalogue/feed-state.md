@@ -31,3 +31,6 @@ _Merchant Center and catalogue state, latest first. Counts are as stated on the 
 - 46 kits targeted; several blocked by missing SKUs, which also blocks CDN image generation (call 2026-09-29).
 - About 2,300 placeholder weights (including 2,019 WIX items) overstate shipping; one Matrixify update is to correct them, and weight files must update both Shopify and the calculated-shipping app (call 2026-11-10).
 - Silverado launch still missing kits, cabin filters, verification, QA and advertising; Ram 2013 to 2018 kits need naming, cabin-filter confirmation and engine images; Ram 1500 cabin-filter fitment unresolved (call 2026-11-10).
+
+## Added by call extractor (2026-11-26)
+- Filter kits launch without component SKUs or filter details shown; fulfilment gets a kit-SKU-to-component-filter mapping by brand (call 2026-11-24).
