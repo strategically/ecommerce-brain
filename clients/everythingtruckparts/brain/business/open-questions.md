@@ -54,3 +54,8 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## From call 2026-11-24
+- Monthly online-revenue goal: $100,000 discussed (call 2026-11-24) versus restructure toward roughly $50,000 (call 2026-11-10). Which is current?
+- Scope of "stop marketing shocks and struts": brands, campaigns and effective date not stated (call 2026-11-24).
+- Whether the new reporting system pulls from Google as well as Shopify (John's question, call 2026-11-24).
