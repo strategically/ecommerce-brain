@@ -54,3 +54,8 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## Added 2026-11-24
+- Shocks and struts stop: whether it covers every brand in the category or only the brand behind the high-return order (call 2026-11-24).
+- Rhino removal: whether it covers all Rhino products in feed and ads (call 2026-11-24).
+- Currency is not stated on any figure in the 2026-11-24 call; $ assumed as spoken.

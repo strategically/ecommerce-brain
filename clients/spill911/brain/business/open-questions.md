@@ -56,3 +56,9 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Peabody pilot scope: imagery, pricing, collection changes (call 2025-06-27). Whether the theme editor fix and live flip happened (calls 2025-10-29, 2025-11-12).
 - Whether the Merchant Center weight cap should be raised to 2,500 lb or a higher value (call 2026-01-07).
 - Spend scale: Sam's "five grand" removable waste versus John's "a couple grand a month" spend (call 2025-04-21); and John's understanding of $10,000 a month PPC versus Bill's $2,000 (call 2025-06-27).
+
+## Added 2026-11-25
+- John estimated a seven-to-eight-times return on ad spend; basis (ROAS, MER or other) and currency not stated (call 2026-11-25).
+- How much of recent sales growth came from PPC versus product-content changes that improved ChatGPT visibility: Bill asked Sam to assess (call 2026-11-25).
+- When Spill 911 typically goes quiet over the year-end holidays: asked, no answer captured (call 2026-11-25).
+- Whether the proposed customer database will hold incoming emails, and whether product categorisation will run as a workflow (call 2026-11-25).
