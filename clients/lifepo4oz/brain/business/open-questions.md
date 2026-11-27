@@ -52,3 +52,5 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Meta spend split between warm and cold/broad audiences (call 2026-11-20)
 - Monthly operating expenses: client to restate once categories clarified (call 2026-11-20)
 - Woopra cookie expiry per browser unconfirmed (call 2026-11-20)
+- Should wiring diagrams and other resources be gated behind contact details, and used as a Meta lead offer (Agora Data Driven proposal)? Not decided (call 2026-11-27)
+- Two websites reportedly copying the LiFePO4 Oz site; details with Fiona, unconfirmed (call 2026-11-27)
