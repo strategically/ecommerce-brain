@@ -6,6 +6,47 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
+## T-006 · Send Ernest the list of products needing accurate specifications
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Catalogue specs inconsistent, including cycle life.
+Context: [[brain/catalogue/enrichment-rules]]
+Done when: List sent
+
+
+## T-007 · Ask supplier for specification sheets
+Owner: Ernest (client) · Status: proposed · Agreed: call 2026-11-27
+Why: Needed to correct product data.
+Context: [[brain/catalogue/enrichment-rules]]
+Done when: Sheets received by Sam
+
+
+## T-008 · Fix incorrect accessory product data with uploaded patch
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Ernest approved the patch.
+Context: [[brain/catalogue/enrichment-rules]]
+Done when: Patch applied and checked
+
+
+## T-009 · Test proposed accessory product-page layout
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Ernest approved trying concise specs, support and warranty layout.
+Context: [[brain/site/page-inventory]]
+Done when: Test live with result read-out
+
+
+## T-010 · Review chat records and conversions across weeks
+Owner: Ernest (client) · Status: proposed · Agreed: call 2026-11-27
+Why: Chats fell from about 12 to 1 a week, none converting.
+Context: [[calls/2026-11-27]]
+Done when: Counts and conversions shared with Sam
+
+
+## T-011 · Provide Zoho quote figures
+Owner: Ernest (client) · Status: proposed · Agreed: call 2026-11-27
+Why: Needed for offline conversion matching.
+Context: [[calls/2026-11-20]]
+Done when: Figures received
+
 ## T-001 · Email proposed Google Ads plan to client
 Owner: Sam · Status: proposed · Agreed: call 2026-11-20
 Why: Agreed on the weekly call; client to review before the following week.

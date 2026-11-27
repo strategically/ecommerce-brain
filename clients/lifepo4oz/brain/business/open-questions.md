@@ -52,3 +52,5 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Meta spend split between warm and cold/broad audiences (call 2026-11-20)
 - Monthly operating expenses: client to restate once categories clarified (call 2026-11-20)
 - Woopra cookie expiry per browser unconfirmed (call 2026-11-20)
+
+- Catalogue contains conflicting cycle-life claims, including a 12,000-cycle figure Ernest does not recognise; verify with supplier sheets (call 2026-11-27).
