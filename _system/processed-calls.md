@@ -32,3 +32,4 @@ One line per Fyxer recording the extractor has handled: `<recording id> | <clien
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:5e0iams7i8c9eakjei38p76k4n | everythingtruckparts | 2026-11-24
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:0g8c0892lvfbmq63ien2ah2af8_20261124T163000Z | everythingtruckparts | 2026-11-24
 096da716-1af9-4b9b-87f6-2662b6e0f0bc:6uo7bpnkrijdg3lgit7cr4apr0 | xchange360 | 2026-11-24
+096da716-1af9-4b9b-87f6-2662b6e0f0bc:9orqlkki84cptuvrfbg4bihhds_20261123T190000Z | abstractocean | 2026-11-23
