@@ -8,7 +8,7 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## T-001 · Expand Crypto Acceptance Index to 8 to 10 markets
 Owner: Sam · Status: proposed · Agreed: call 2026-11-06
-Why: Index is the main link-building asset.
+Why: Index is the main link-building asset. Update: Index data refresh, article rewrite and front-end integration still needed before publishing (call 2026-11-27).
 Context: [[calls/2026-11-06-5d2rbl]]
 Done when: 8 to 10 markets sampled at about 50 sellers each with verified evidence.
 
@@ -26,7 +26,7 @@ Done when: email sent.
 
 ## T-004 · Build Google Ads campaigns once admin access is granted
 Owner: Sam · Status: waiting-on-client · Agreed: call 2026-10-22
-Why: Canada is the first market; estimated about a day to build.
+Why: Canada is the first market; estimated about a day to build. Update: Canada campaign paused until about Q1 2027 pending licensing and management decision (call 2026-11-27).
 Context: [[brain/advertising/account-state]]
 Done when: ad sets built in the new account.
 
@@ -35,6 +35,19 @@ Owner: Sam · Status: proposed · Agreed: call 2026-10-22
 Why: Landing page is the destination for the ads.
 Context: [[calls/2026-10-22-4oekeq]]
 Done when: feedback sent to Matthias.
+
+## T-015 · Email Matthias the Index implementation artifact and content spreadsheet link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Matthias asked for both by email after the call; the Index needs his side to refresh the database and integrate the front end.
+Context: [[calls/2026-11-27]]
+Done when: Email sent (draft only; Sam sends).
+
+## T-016 · Schedule follow-up with Matthias and Aria
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Marketing ownership and a possible shared model with VIP 360 are to be settled.
+Context: [[calls/2026-11-27]]
+Done when: Invite sent for Wednesday next week (date not stated).
+
 
 ## Waiting on client
 
@@ -58,7 +71,7 @@ Done when: ideas received.
 
 ## T-009 · Integrate Index API into the front end
 Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-10-22
-Why: Data refreshes must flow to the page.
+Why: Data refreshes must flow to the page. Update: Matthias asked for an implementation artifact by email (see T-015) (call 2026-11-27).
 Context: [[calls/2026-10-22-4oekeq]]
 Done when: live data refreshes on the front end.
 
@@ -67,6 +80,19 @@ Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-09-24
 Why: Europe content and Index inclusion depend on it.
 Context: [[brain/business/open-questions]]
 Done when: timeline confirmed.
+
+## T-017 · Review month-five content spreadsheet and give feedback
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Month-five drafts are ready; Matthias said the titles shown were fine but will review the sheet.
+Context: [[brain/site/content-plan]]
+Done when: Feedback received.
+
+## T-018 · Discuss marketing ownership and Aria's role internally and report back
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: James left; no owner for Xchange360 marketing or lead follow-up.
+Context: [[calls/2026-11-27]]
+Done when: Outcome reported to Sam (next week).
+
 
 ## Done (last 30 days)
 

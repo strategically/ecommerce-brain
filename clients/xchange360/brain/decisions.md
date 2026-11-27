@@ -12,3 +12,5 @@
 | 2026-09-24 | Crypto Acceptance Index is the main link-building asset; avoid mass paid links | Earn links through original data | call 2026-09-24 | |
 | 2026-10-22 | Landing pages: simple Revolut-style, "Crypto business banking" lead message; Google Ads first in Canada | Low friction for ad traffic | call 2026-10-22 | |
 | 2026-11-06 | Index counts only verified own-channel acceptance and separates gift-card and unverified signals; content shifts to long-tail how-to plus refreshes | Credibility; low complexity, high intent queries | call 2026-11-06 | |
+| 2026-11-27 | Month-five content centres on the business crypto-acceptance journey; avoid promoting custody, treasury or crypto-holding services | Regulatory position; custody pages removed from site | call 2026-11-27 | |
+| 2026-11-27 | Outreach off for December; Canada campaign paused to about Q1 2027 | James left; licensing and management decision pending | call 2026-11-27 | |

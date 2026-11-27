@@ -52,3 +52,6 @@
 | 2026-11-20 | Keep personal service/direct conversations as primary sales focus, not calculator | Calculator-led traffic reduced conversions | call 2026-11-20 | |
 | 2026-11-20 | Increase traffic rather than wait for attribution fix; prioritise larger deals | Attribution gaps unlikely to resolve soon | call 2026-11-20 | |
 | 2026-11-20 | Email capture before phone number display, with Woopra identify | 63 anonymous calls lost attribution | call 2026-11-20 | |
+| 2026-11-27 | Trial the proposed accessory product-page layout | Clearer specs and support information | call 2026-11-27 | |
+| 2026-11-27 | Fix the stacked-discount website issue, then assess before a broader marketing or traffic decision | Ernest supported fix-then-assess. Partly conflicts with the 2026-11-20 decision to increase traffic; see escalations | call 2026-11-27 | |
+| 2026-11-27 | Use Matrixify plan with 500 metafields for the import; cancel when done | Cost control | call 2026-11-27 | |
