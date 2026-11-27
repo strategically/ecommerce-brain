@@ -52,3 +52,8 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Meta spend split between warm and cold/broad audiences (call 2026-11-20)
 - Monthly operating expenses: client to restate once categories clarified (call 2026-11-20)
 - Woopra cookie expiry per browser unconfirmed (call 2026-11-20)
+
+## Added from call 2026-11-27
+- Whether the Black Friday stacked discount (25% on an existing 25%, effectively 50%) has been corrected (call 2026-11-27).
+- Currency of the 19-25 Nov dollar figures is not stated (call 2026-11-27).
+- Ground-mount quote: the named finance contact is unclear in the summary (call 2026-11-27).

@@ -38,3 +38,4 @@ _Decisions as agreed on calls, in date order. "Superseded" rows are kept for the
 | 2026-10-14 | Build Tacoma 2016-2023 page; Shopify owns customer records, Convermax reads from Shopify (assumption). | | (call 2026-10-14) | |
 | 2026-10-27 | Start with Ram 1500, then Ford, then Chevy/GM (superseded 2026-11-10); kits as bundles of components; no kit discount decided. | | (call 2026-10-27) | |
 | 2026-11-10 | Silverado lead; ads begin within a week for completed years; inventory disabled for filter kits; kit components on orders and invoices. | Supplier availability handled manually. | (call 2026-11-10) | |
+| 2026-11-24 | Stop marketing shocks and struts; launch filter kits at current pricing with component SKUs hidden; organise kits by chassis; exclude volume pricing from kit pages only. | Very poor returns in the category; test demand without exposing product info. | (call 2026-11-24) | |

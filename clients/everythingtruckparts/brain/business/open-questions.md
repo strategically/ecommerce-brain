@@ -54,3 +54,7 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## Added from call 2026-11-24
+- Currency and basis of the 24 Nov revenue, MER and returns figures are not stated (call 2026-11-24).
+- Amount of extra ad and data investment toward the $100,000 monthly goal was not agreed (call 2026-11-24).
