@@ -6,6 +6,26 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
+## T-015 · Discuss marketing ownership and Aria's role internally; report back
+Owner: Matthias (client) · Status: proposed · Agreed: call 2026-11-27
+Why: James left; Xchange360 marketing ownership unresolved.
+Context: [[calls/2026-11-27]]
+Done when: Matthias reports outcome (next week)
+
+
+## T-016 · Email Matthias the Index implementation artifact
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Index needs database refresh, article rewrite and front-end integration.
+Context: [[calls/2026-11-27]]
+Done when: Artifact emailed
+
+
+## T-017 · Schedule follow-up with Matthias and Aria
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Decide how to work together after James's exit.
+Context: [[calls/2026-11-27]]
+Done when: Invite sent for Wednesday 2026-12-02 or nearest slot
+
 ## T-001 · Expand Crypto Acceptance Index to 8 to 10 markets
 Owner: Sam · Status: proposed · Agreed: call 2026-11-06
 Why: Index is the main link-building asset.
@@ -59,8 +79,9 @@ Done when: ideas received.
 ## T-009 · Integrate Index API into the front end
 Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-10-22
 Why: Data refreshes must flow to the page.
-Context: [[calls/2026-10-22-4oekeq]]
+Context: [[calls/2026-10-22-4oekeq]] [[calls/2026-11-27]]
 Done when: live data refreshes on the front end.
+Update (call 2026-11-27): needs database refresh and article rewrite first; Sam to send implementation artifact (T-016).
 
 ## T-010 · Confirm MiCA licence timing for Europe content
 Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-09-24
@@ -75,6 +96,6 @@ _None yet._
 ## Content plan follow-ups (workbook 2026-11-21)
 - T-011 · Sam · Confirm which Batch 2 and 3 pieces are published; workbook statuses were not updated after 2026-08-20 · due: TBC
 - T-012 · Matthias · Send the timely pick for slot #38 (due 2026-11-06 or 2026-11-09 per call 2026-11-06) · waiting on client
-- T-013 · Matthias · Approve Month 5 titles #39-#53, confirm Swiss status wording, MiCA wording and custody boundary · waiting on client
+- T-013 · Matthias · Approve Month 5 titles #39-#53, confirm Swiss status wording, MiCA wording and custody boundary · waiting on client · update (call 2026-11-27): Matthias to review the spreadsheet; custody and treasury promotion to be avoided
 - T-014 · Sam · Decide whether help-centre and onboarding docs become a Cycle 2 content workstream (Matthias, product call) · due: TBC
 See `brain/site/content-plan.md`.

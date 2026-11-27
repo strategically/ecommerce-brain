@@ -7,3 +7,4 @@ Questions waiting on Sam. Empty is the goal.
 - Retainer value and AI credit budget are not on any call; the CFO agent cannot size the 10% budget without it.
 - The 2026-06-22 kickoff recording failed; recap with Matthias or James if its content matters.
 - Fyxer could not filter by attendee domain; matching used names and titles. The register now carries title keywords for both clients; blkgroup.com is shared with VIP 360, so domain alone is ambiguous.
+- 2026-11-27: Matthias floated a shared working model with VIP360 (Aria) and Sam offered to fit the existing contracts to what is needed; Sam also offered arm's-length lead outreach, which needs someone to handle leads. Decide how to position the retainer across Xchange360 and VIP360 before the Wednesday follow-up. (call 2026-11-27)
