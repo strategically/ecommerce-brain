@@ -30,6 +30,25 @@ Why: Draft orders are 63% of revenue with 2% click-ID coverage.
 Context: [[brain/advertising/account-state]]
 Done when: Matched sales list ready; upload to Google Ads needs Sam approval (see escalations)
 
+## T-006 · Recheck supplier data and correct inconsistent product specs and cycle-life claims
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Catalogue has conflicting specs; Ernest clarified cycle life by cell model.
+Context: [[brain/catalogue/enrichment-rules]]
+Done when: Corrected specs ready for Ernest to check; live product changes need Sam approval.
+
+## T-007 · Roll out accessory product-page layout test
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Ernest approved trying clearer specs and support information.
+Context: [[brain/site/page-inventory]]
+Done when: Test layout live on agreed accessory pages and compared against current pages.
+
+## T-008 · Find and fix cause of the stacked Black Friday discount, then assess
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: 25% promo applied on top of an existing 25% discount, selling some orders at about 50% off.
+Context: [[brain/site/page-inventory]]
+Done when: Cause fixed and effect on sales and margin reviewed.
+
+
 ## Waiting on client
 
 ## T-005 · Woopra to resend tracking instructions, tag link and call-event report
@@ -37,6 +56,31 @@ Owner: Ryan (Woopra) · Status: proposed · Agreed: call 2026-11-20
 Why: Needed for the tracking build.
 Context: [[brain/site/page-inventory]]
 Done when: Items received by Sam
+
+## T-009 · Compare chat counts across weeks and check conversions
+Owner: Ernest (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Chat volume fell sharply; need to know whether any chats converted.
+Context: [[calls/2026-11-27]]
+Done when: Counts and conversions sent to Sam.
+
+## T-010 · Provide Zoho quote figures
+Owner: Ernest (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Needed for the quote-to-sale picture.
+Context: [[calls/2026-11-27]]
+Done when: Figures received.
+
+## T-011 · Forward email about possible theme upgrade
+Owner: Ernest (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Sam to review the upgrade.
+Context: [[calls/2026-11-27]]
+Done when: Email received.
+
+## T-012 · Check whether off-grid e-book can be used as a lead-generation resource
+Owner: Agora Data Driven (vendor) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Possible Meta lead offer using free resources.
+Context: [[calls/2026-11-27]]
+Done when: Answer received.
+
 
 ## Done (last 30 days)
 

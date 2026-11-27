@@ -27,3 +27,11 @@ _Facts only, each with source and date. Calls cover 2026-06-10 to 2026-11-06 (10
 - Site publishing: content as MDX in Git; Pages CMS replaced Keystatic from 2026-08-14 (calls 2026-06-10, 2026-08-13). Hosting runs on Railway (call 2026-10-22).
 - Tools named: Ahrefs, Search Console, Attio, Dench, Claude, Pages CMS (calls 2026-06-26, 2026-09-24, 2026-08-13).
 - A conference presence is planned for January with the sister company (call 2026-09-24).
+
+## Added from call 2026-11-27
+- James Hickson has left; Xchange360 has no marketing owner and no sales representative. Sales hiring may begin in January 2027 (call 2026-11-27).
+- Canada marketing campaign is paused until about Q1 2027, pending licensing and management's decision (call 2026-11-27).
+- Outreach built by James with a developer is switched off for December 2026 (call 2026-11-27).
+- Current serviceable market is narrow: high-risk businesses needing euro settlement; euro is the only settlement offered now. Most clients come through personal networks; the website produced one small-volume client (call 2026-11-27).
+- Custody and treasury pages were removed from the website for regulatory reasons; present exchange and payment services, not "give us your crypto and we hold it" (call 2026-11-27).
+- Matthias described the new site, content and SEO programme as an experiment led by James; the company has not decided whether to continue it (call 2026-11-27).
