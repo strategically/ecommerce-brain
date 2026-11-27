@@ -30,6 +30,12 @@ Why: Draft orders are 63% of revenue with 2% click-ID coverage.
 Context: [[brain/advertising/account-state]]
 Done when: Matched sales list ready; upload to Google Ads needs Sam approval (see escalations)
 
+## T-006 · Recheck supplier data and correct inconsistent product specifications
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Conflicting cycle-life claims found across the catalogue; Ernest gave cycle life by cell model.
+Context: [[brain/catalogue/enrichment-rules]]
+Done when: Specs consistent with supplier data and the cell-model ratings; changes proposed for approval
+
 ## Waiting on client
 
 ## T-005 · Woopra to resend tracking instructions, tag link and call-event report
@@ -37,6 +43,18 @@ Owner: Ryan (Woopra) · Status: proposed · Agreed: call 2026-11-20
 Why: Needed for the tracking build.
 Context: [[brain/site/page-inventory]]
 Done when: Items received by Sam
+
+## T-007 · Ernest to compare live-chat counts and conversions across date ranges
+Owner: Ernest (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Chat volume dropped sharply after the AI chat system; need to see whether chats converted.
+Context: [[brain/site/page-inventory]]
+Done when: Ernest supplies chat counts and conversions for prior ranges
+
+## T-008 · Ernest to provide Zoho quote figures
+Owner: Ernest (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Sam asked for quote figures; Ernest said he might be able to get them.
+Context: [[brain/business/open-questions]]
+Done when: Figures received
 
 ## Done (last 30 days)
 

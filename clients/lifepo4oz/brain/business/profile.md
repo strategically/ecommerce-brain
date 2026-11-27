@@ -51,3 +51,5 @@ _Facts only, each with source and date. Currency not stated unless marked AUD._
 - Typical customers include people replacing lead-acid batteries; personal service and direct conversations drive buying (call 2026-11-20)
 - Large draft orders preferred paid by bank transfer to save payment fees (call 2026-11-20)
 - Draft orders are 63% of revenue (call 2026-11-20)
+- AI chat system introduced because human chat replies took hours or did not arrive (call 2026-11-27)
+- Lead-generation partner Agora Data Driven runs lead forms (on-grid or off-grid question) (call 2026-11-27)
