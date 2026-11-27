@@ -44,3 +44,8 @@ _Facts only, each with source and date. Current state as of the latest call (202
 - Checkout completion shows the largest funnel drop; shipping cost and returns are the suspected causes (calls 2026-04-14, 2026-05-12, 2026-07-21).
 - Returns and cancellations materially reduce net revenue; drivers named are discontinued SKUs, out-of-stock listings, large cancelled orders, shipping and CARB compliance (calls 2026-03-03, 2026-08-04).
 - Fraudulent orders are a recurring issue (call 2025-07-07).
+
+## Added from call 2026-11-24
+- Shocks and struts category removed from marketing because of very poor returns (call 2026-11-24).
+- Rhino removed from marketing: it cancels drop-ship orders when an item is out of stock (call 2026-11-24).
+- Sam is building a consolidated reporting system (advertising, Shopify, Google Analytics, shipping, margin data) for AI-supported analysis (call 2026-11-24).

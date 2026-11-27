@@ -16,6 +16,7 @@ Done when: 8 to 10 markets sampled at about 50 sellers each with verified eviden
 Owner: Sam · Status: proposed · Agreed: call 2026-11-06
 Why: Long-tail how-to queries and refreshes are the agreed content plan.
 Context: [[calls/2026-11-06-5d2rbl]]
+Update 2026-11-27: month-five drafts including six refreshes are ready and with Matthias for review (call 2026-11-27).
 Done when: six how-to guides drafted and the high-impression articles refreshed.
 
 ## T-003 · Email Matthias his required actions and tracking items
@@ -28,6 +29,7 @@ Done when: email sent.
 Owner: Sam · Status: waiting-on-client · Agreed: call 2026-10-22
 Why: Canada is the first market; estimated about a day to build.
 Context: [[brain/advertising/account-state]]
+Update 2026-11-27: Canada campaign paused until about Q1 2027 pending licensing and management decision (call 2026-11-27). Proposed status stays waiting-on-client; Sam to confirm or drop.
 Done when: ad sets built in the new account.
 
 ## T-005 · Review landing page draft and send comments or video
@@ -35,6 +37,30 @@ Owner: Sam · Status: proposed · Agreed: call 2026-10-22
 Why: Landing page is the destination for the ads.
 Context: [[calls/2026-10-22-4oekeq]]
 Done when: feedback sent to Matthias.
+
+## T-006 · Email Matthias the acceptance-index implementation artifact and content spreadsheet link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Publishing the index needs refreshed data and a front-end link from Xchange360's side.
+Context: [[calls/2026-11-27]]
+Done when: email sent with the artifact and the spreadsheet link.
+
+## T-007 · Schedule follow-up with Matthias and Aria
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Marketing ownership and Aria's role are being decided internally; Wednesday of next week proposed.
+Context: [[calls/2026-11-27]]
+Done when: invite accepted by Matthias and Aria.
+
+## T-008 · Review month-five content spreadsheet and give feedback
+Owner: Matthias · Status: proposed · Agreed: call 2026-11-27
+Why: Drafts are ready; Estelle can start once topics are confirmed.
+Context: [[brain/site/content-plan]]
+Done when: feedback or replacement topics sent to Sam.
+
+## T-009 · Report back on Xchange360 marketing ownership and Aria's role
+Owner: Matthias · Status: proposed · Agreed: call 2026-11-27
+Why: December outreach is off and nobody owns marketing since James left.
+Context: [[calls/2026-11-27]]
+Done when: Matthias reports the outcome of the internal discussions (call with Aria planned 2026-11-30).
 
 ## Waiting on client
 

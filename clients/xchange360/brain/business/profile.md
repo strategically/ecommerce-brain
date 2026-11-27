@@ -27,3 +27,10 @@ _Facts only, each with source and date. Calls cover 2026-06-10 to 2026-11-06 (10
 - Site publishing: content as MDX in Git; Pages CMS replaced Keystatic from 2026-08-14 (calls 2026-06-10, 2026-08-13). Hosting runs on Railway (call 2026-10-22).
 - Tools named: Ahrefs, Search Console, Attio, Dench, Claude, Pages CMS (calls 2026-06-26, 2026-09-24, 2026-08-13).
 - A conference presence is planned for January with the sister company (call 2026-09-24).
+
+## Added from call 2026-11-27
+- James has left; marketing ownership is unresolved and there is no new CEO yet (call 2026-11-27).
+- No sales representative; hiring may begin January 2027 (call 2026-11-27).
+- Euro settlement only today; core market is high-risk businesses such as online gaming; most clients come through personal networks in Cyprus and abroad (call 2026-11-27).
+- Custody and treasury positioning is being reduced for regulatory reasons; present exchange and payment services (call 2026-11-27).
+- Aria (VIP360, UK) may take on marketing work; her role across the two companies is undecided (call 2026-11-27).

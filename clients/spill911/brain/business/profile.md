@@ -50,3 +50,8 @@ _Facts only, each with source and date. Currency not stated on most calls; confi
 - Shopify; Booster app for breadcrumbs and categories (calls 2025-05-15, 2025-07-09); Matrixify for bulk import and export (calls 2025-07-23, 2025-10-29); Merchant Center; Google Ads and Bing Ads; Simprosys feed app (spelling varies); Looker Studio URL-level tracking (call 2026-01-07); Woopra (reassess, call 2026-07-22); Stape server-side tracking planned (call 2026-04-01).
 - Shipping: unified freight integration with Echo Global and CH Robinson, Freightquote returns usable LTL rates (call 2026-05-29); legacy FedEx freight app to be deleted, UPS parcel app moved into the unified app (call 2026-05-29).
 - Attribute app / extraction workflow built by Sam (calls 2025-08-20, 2025-09-17, 2026-04-29).
+
+## Added from call 2026-11-25
+- Two full-time customer support staff prepare quotes and follow up (call 2026-11-25).
+- Exchange holds much customer information; Business Central holds accounting, customer-service notes and quotes; Shopify also holds business data (call 2026-11-25).
+- John plans to review HubSpot and other CRM options in December (call 2026-11-25).
