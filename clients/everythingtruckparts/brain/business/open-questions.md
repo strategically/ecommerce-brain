@@ -54,3 +54,7 @@ _Unresolved items, and conflicting or garbled figures flagged for review rather 
 - Organic revenue decline needs investigation (call 2026-11-10).
 - Shipping blocks ("cannot ship to this location"): specific addresses or regions? (call 2026-03-26).
 - Brand drop-down filter missing on search results: recent app update? (call 2025-10-28).
+
+## Added from call 2026-11-24
+- Whether the $100,000 monthly online-revenue goal replaces the $50,000 target, and whether it is gross or net of returns (call 2026-11-24).
+- Whether the selected SKU is included in the order when a customer adds a filter kit to the cart (call 2026-11-24).

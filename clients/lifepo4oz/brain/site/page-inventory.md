@@ -26,3 +26,8 @@ _Facts from calls only. Page-level traffic numbers live in the database._
 ## Added from call 2026-11-20
 - Calculator-led traffic tested in prior 12 months reduced conversions; keep personal service central (call 2026-11-20)
 - Planned: click-to-call email capture with Woopra identify; tracked shipping-status page for draft-order customers (call 2026-11-20)
+
+## Added from call 2026-11-27
+- Proposed product-page layout with clearer specifications and support information approved for trial (call 2026-11-27).
+- Resources page with wiring diagrams and videos in progress; whether access will require contact details is undecided (call 2026-11-27).
+- Store switched to a copy of theme v4 (call 2026-11-27).

@@ -4,3 +4,4 @@
 - First campaigns target Canada (call 2026-10-22).
 - Landing pages exist as QA drafts, not in production; messaging and build are being reworked, and compliance and legal sign-off on claims is pending as of 2026-11-06 (calls 2026-10-22, 2026-11-06).
 - Group context: Google Ads quality and ad serving reward site quality and SEO ranking, per the sponsor (call 2026-09-17, VIP 360 call).
+- Canada marketing campaign paused until about Q1 2027 pending licensing and a management decision; December outreach (Apollo-based) is switched off (call 2026-11-27).

@@ -34,3 +34,6 @@ _Facts from calls only. Page-level traffic numbers live in the database._
 ## Theme and site rules
 - Attributes theme is a duplicate of the live theme used for enrichment before go-live (call 2026-05-13). Theme editor was failing in Oct 2025 (call 2025-10-29).
 - Filter app about $100 a month may be cancelled once redesign replaces it (call 2026-11-11).
+
+## Added from call 2026-11-25
+- Third-party Request a Quote app on a handful of large or complex products: shows a quote button, emails customer and Spill911, promises a reply within 24 hours; about two requests a week (call 2026-11-25).

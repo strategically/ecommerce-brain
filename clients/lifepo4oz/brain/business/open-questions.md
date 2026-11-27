@@ -52,3 +52,8 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Meta spend split between warm and cold/broad audiences (call 2026-11-20)
 - Monthly operating expenses: client to restate once categories clarified (call 2026-11-20)
 - Woopra cookie expiry per browser unconfirmed (call 2026-11-20)
+
+## Added from call 2026-11-27
+- Chat volume: four chats in seven days reported, but also one chat in the latest week; Ernest to check records (call 2026-11-27).
+- Black Friday stacked discount described as an effective 50%; 25% on 25% compounds to about 44%. Actual price, margin and orders affected unconfirmed (call 2026-11-27).
+- Whether wiring diagrams and other resources will be gated behind contact details (call 2026-11-27).

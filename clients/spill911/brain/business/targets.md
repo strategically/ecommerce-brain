@@ -28,3 +28,6 @@ _Targets, thresholds and validation rules set on calls. Weekly and fortnightly p
 
 ## Operations
 - 5,000 products per block for attribute extraction and import, next block February 2026 (call 2026-01-07).
+
+## Added from call 2026-11-25
+- $100,000 monthly sales discussed as a goal; extra ad budget needed not set (call 2026-11-25).

@@ -56,3 +56,7 @@ _To confirm with the client. Conflicting or garbled figures are listed with the 
 - Peabody pilot scope: imagery, pricing, collection changes (call 2025-06-27). Whether the theme editor fix and live flip happened (calls 2025-10-29, 2025-11-12).
 - Whether the Merchant Center weight cap should be raised to 2,500 lb or a higher value (call 2026-01-07).
 - Spend scale: Sam's "five grand" removable waste versus John's "a couple grand a month" spend (call 2025-04-21); and John's understanding of $10,000 a month PPC versus Bill's $2,000 (call 2025-06-27).
+
+## Added from call 2026-11-25
+- Whether profit calculations use accounting records or average cost-of-goods assumptions (call 2026-11-25).
+- Reporting period for the $53,000 web gross and 5,992 sessions not stated (call 2026-11-25).

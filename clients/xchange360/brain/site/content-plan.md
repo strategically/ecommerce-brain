@@ -50,3 +50,8 @@ Source: Xchange360 30-Day Content Plan workbook (prepared 2026-08-20; calendar t
 - Confirm which Batch 2 and 3 pieces are actually published. The workbook statuses were not updated after 2026-08-20.
 - R3 (MCC codes refresh) conflicts with the earlier "MCC content belongs to VIP 360" rule; confirm which plan owns it.
 - Workbook rows for Genius Act, DEX vs CEX and DeFi sit unattributed in the requests tab; ownership and slot undecided.
+
+## Update from call 2026-11-27
+- Month-five drafts (new articles plus six refreshes) are ready; Matthias had no objection to the topics shown and will review the spreadsheet; Estelle ready to start (call 2026-11-27).
+- Guardrails: focus on the first-time business acceptance journey; avoid custody, treasury and holding themes (call 2026-11-27).
+- Index publication needs refreshed data from Xchange360, an article rewrite and a front-end link (call 2026-11-27).

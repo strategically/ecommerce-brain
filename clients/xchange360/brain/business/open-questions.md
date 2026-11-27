@@ -8,3 +8,5 @@
 - Client currency for budgets and revenue is not stated on the calls (call register: TBC).
 - Retainer and AI budget (CFO sets): not stated on calls.
 - 2026-06-22 call (Sam, James Hickson, Matthias Georgiou) failed to record; its content is unknown.
+- Sam quoted roughly 1 to 1.5% of the market accepting crypto; the index shows 2.9% for UAE and UK. Basis and market for the quoted figure not stated (call 2026-11-27).
+- Who owns Xchange360 marketing and lead follow-up from December, and whether the website programme continues (call 2026-11-27).
