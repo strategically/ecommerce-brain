@@ -7,3 +7,4 @@ Questions waiting on Sam. Empty is the goal.
 - Retainer value and AI credit budget are not on any call; the CFO agent cannot size the 10% budget without it.
 - The 2026-06-22 kickoff recording failed; recap with Matthias or James if its content matters.
 - Fyxer could not filter by attendee domain; matching used names and titles. The register now carries title keywords for both clients; blkgroup.com is shared with VIP 360, so domain alone is ambiguous.
+- 2026-11-27: James Hickson has left; Matthias says marketing ownership is unresolved, December outreach is off, the Canada campaign is paused to about Q1 2027, and there is no sales rep until January at the earliest. T-004 to T-007 (Google Ads, landing pages) depend on Canada resuming. Matthias will report back next week; follow-up call proposed Wednesday 2026-12-02. Decide how to position the retainer, including a possible shared model with VIP 360. (call 2026-11-27)

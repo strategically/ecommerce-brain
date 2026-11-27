@@ -17,6 +17,7 @@ Owner: Sam · Status: proposed · Agreed: call 2026-11-06
 Why: Long-tail how-to queries and refreshes are the agreed content plan.
 Context: [[calls/2026-11-06-5d2rbl]]
 Done when: six how-to guides drafted and the high-impression articles refreshed.
+Update (call 2026-11-27): month-five drafts (new articles plus six refreshes) are ready; Estelle's style pass is about to start. Status unchanged until Sam confirms.
 
 ## T-003 · Email Matthias his required actions and tracking items
 Owner: Sam · Status: proposed · Agreed: call 2026-11-06
@@ -35,6 +36,18 @@ Owner: Sam · Status: proposed · Agreed: call 2026-10-22
 Why: Landing page is the destination for the ads.
 Context: [[calls/2026-10-22-4oekeq]]
 Done when: feedback sent to Matthias.
+
+## T-015 · Email Matthias the acceptance-index implementation artifact and content spreadsheet link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Matthias asked for both by email after the call.
+Context: [[calls/2026-11-27-6uo7bp]]
+Done when: Email sent (draft only; Sam sends).
+
+## T-016 · Schedule follow-up with Matthias and Aria for Wednesday 2026-12-02
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Discuss marketing ownership after James's departure; subject to availability.
+Context: [[calls/2026-11-27-6uo7bp]]
+Done when: Invite sent.
 
 ## Waiting on client
 
@@ -67,6 +80,18 @@ Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-09-24
 Why: Europe content and Index inclusion depend on it.
 Context: [[brain/business/open-questions]]
 Done when: timeline confirmed.
+
+## T-017 · Discuss marketing ownership and Aria's role internally and report back
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: James has left; ownership of Xchange360 marketing is unresolved.
+Context: [[calls/2026-11-27-6uo7bp]]
+Done when: Matthias reports outcome next week.
+
+## T-018 · Review month-five content spreadsheet and give feedback
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Drafts and six refreshes ready; Estelle's style pass about to start.
+Context: [[calls/2026-11-27-6uo7bp]]
+Done when: Feedback received.
 
 ## Done (last 30 days)
 

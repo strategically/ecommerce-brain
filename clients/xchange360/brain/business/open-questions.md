@@ -8,3 +8,5 @@
 - Client currency for budgets and revenue is not stated on the calls (call register: TBC).
 - Retainer and AI budget (CFO sets): not stated on calls.
 - 2026-06-22 call (Sam, James Hickson, Matthias Georgiou) failed to record; its content is unknown.
+- Who owns Xchange360 marketing and sales follow-up after James Hickson's departure, and whether content, link building and ads continue (call 2026-11-27).
+- Whether contract hours move toward VIP 360 consulting (call 2026-11-27).
