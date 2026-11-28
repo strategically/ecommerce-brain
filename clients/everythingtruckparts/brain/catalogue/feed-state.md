@@ -31,3 +31,5 @@ _Merchant Center and catalogue state, latest first. Counts are as stated on the 
 - 46 kits targeted; several blocked by missing SKUs, which also blocks CDN image generation (call 2026-09-29).
 - About 2,300 placeholder weights (including 2,019 WIX items) overstate shipping; one Matrixify update is to correct them, and weight files must update both Shopify and the calculated-shipping app (call 2026-11-10).
 - Silverado launch still missing kits, cabin filters, verification, QA and advertising; Ram 2013 to 2018 kits need naming, cabin-filter confirmation and engine images; Ram 1500 cabin-filter fitment unresolved (call 2026-11-10).
+
+- Filter-kit fulfilment needs a spreadsheet mapping each kit SKU to its component filters, split by brand; Fleetguard goes to a different recipient than Baldwin, WIX and Donaldson, which can share one (call 2026-11-24).

@@ -44,3 +44,4 @@ Pointer: calls on 2025-05-15, 2025-07-24, 2026-06-24, 2026-07-10, 2026-09-30, 20
 | 2026-10-28 | Google toward $1,000 (also $500-1,000); Bing brand campaigns about $10 a day; research MVP government-lead triage agent. Softens the 2026-10-14 cut | Prioritise organic, catalog, ChatGPT and Bing | call 2026-10-28 | |
 | 2026-10-30 | Vestil template only for products with required data and pricing; email-gated downloads; update live products first, new products draft until priced | Capture leads; avoid unpriced pages | call 2026-10-30 | |
 | 2026-11-11 | Fix collection page first then homepage; keep Bing under observation with growth capped and placement exclusions; update Booster theme incrementally | Bing spend reached about $100 a day against the $10 plan | call 2026-11-11 | |
+| 2026-11-25 | Reach a consistent $100,000 a month in sales before deeper behaviour analysis or extensive systems work | Focus on growth first | call 2026-11-25 | |

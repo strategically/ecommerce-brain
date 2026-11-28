@@ -36,6 +36,18 @@ Why: Landing page is the destination for the ads.
 Context: [[calls/2026-10-22-4oekeq]]
 Done when: feedback sent to Matthias.
 
+## T-011 · Email Matthias the Acceptance Index implementation artifact and month-five content spreadsheet link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Matthias asked for both after the call.
+Context: [[brain/site/content-plan]]
+Done when: Email drafted for Sam to send
+
+## T-012 · Schedule follow-up with Matthias and Aria for Wednesday
+Owner: Sam · Status: proposed · Agreed: call 2026-11-27
+Why: Agreed on the call, subject to availability.
+Context: [[brain/decisions]]
+Done when: Invite sent (Sam sends)
+
 ## Waiting on client
 
 ## T-006 · Add payment card and billing to Google Ads, grant Sam admin access
@@ -67,6 +79,18 @@ Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-09-24
 Why: Europe content and Index inclusion depend on it.
 Context: [[brain/business/open-questions]]
 Done when: timeline confirmed.
+
+## T-013 · Discuss marketing ownership and Aria's role internally, report back next week
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: James left; ownership unresolved.
+Context: [[brain/business/open-questions]]
+Done when: Answer received by Sam
+
+## T-014 · Review month-five content spreadsheet and give feedback
+Owner: Matthias (client) · Status: waiting-on-client · Agreed: call 2026-11-27
+Why: Drafts are ready for production.
+Context: [[brain/site/content-plan]]
+Done when: Feedback received
 
 ## Done (last 30 days)
 
