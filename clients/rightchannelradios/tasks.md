@@ -6,11 +6,39 @@ Status: `proposed` -> `approved` -> `in-progress` -> `done` (or `waiting-on-clie
 
 ## Active
 
-_None yet._
+
+## T-001 · Reduce Google Ads budget to 105 for Black Friday and monitor
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Agreed with Pat; unit unclear (see escalations).
+Context: [[brain/advertising/account-state]]
+Done when: Budget changed by Sam and result assessed after Black Friday
+
+## T-002 · Update product-page shipping language, recommendation rules and comparison data
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Pat requested noon MST cutoff, no guaranteed dates, antenna and coax, mounts, comparisons below specs.
+Context: [[brain/site/page-inventory]]
+Done when: Changes live on preview for Pat
+
+## T-003 · Fix Shopify preview access and send Pat a working link
+Owner: Sam · Status: proposed · Agreed: call 2026-11-24
+Why: Preview needs the view=CRO parameter.
+Context: [[brain/site/page-inventory]]
+Done when: Pat can open the preview
 
 ## Waiting on client
 
-_None yet._
+
+## T-004 · Finalise Black Friday promotion and send details for Google Ads
+Owner: Pat (client) · Status: waiting-on-client · Agreed: call 2026-11-24
+Why: Ads approval takes about 48 hours.
+Context: [[brain/advertising/account-state]]
+Done when: Offer details received
+
+## T-005 · Review updated preview
+Owner: Pat (client) · Status: waiting-on-client · Agreed: call 2026-11-24
+Why: Needed before changes go live.
+Context: [[brain/site/page-inventory]]
+Done when: Feedback received
 
 ## Done (last 30 days)
 
